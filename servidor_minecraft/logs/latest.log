@@ -10283,3 +10283,17 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [10Jul2025 20:06:48.874] [Worker-Main-92/WARN] [lithostitched/]: Non-existent template pool reference: kaisyn:village/meadow_swiss/villagers
 [10Jul2025 20:08:33.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has completed the challenge [Overkill]
 [10Jul2025 20:09:52.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [Cover Me with Diamonds]
+[10Jul2025 20:14:07.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML was killed by Webby80es using magic
+[10Jul2025 20:14:09.043] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[10Jul2025 20:15:59.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es was Crushed to death by Cumulonimbus
+[10Jul2025 20:16:01.480] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
+[10Jul2025 20:16:13.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to AngelML]
+[10Jul2025 20:16:58.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML was slain by Cumulonimbus
+[10Jul2025 20:17:00.347] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[10Jul2025 20:17:08.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es was slain by Cumulonimbus
+[10Jul2025 20:17:11.436] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
+[10Jul2025 20:18:32.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Spectator Mode]
+[10Jul2025 20:18:35.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to AngelML]
+[10Jul2025 20:20:10.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML was Exterminated by Cumulonimbus using pure Lightning Energy
+[10Jul2025 20:20:11.632] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[10Jul2025 20:20:35.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML was slain by Fallen Chaos Knight
