@@ -10204,3 +10204,17 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [10Jul2025 18:33:27.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2315.500000, 100.500000, 856.500000]
 [10Jul2025 18:37:11.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AngelML> vamos a una dungeon??
 [10Jul2025 18:37:22.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Webby80es> Ahora si eso que voy a hacer unas cosas
+[10Jul2025 18:39:51.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Webby80es> Ahora vuelvo guapeton voy a bañarme
+[10Jul2025 18:39:57.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AngelML> que?
+[10Jul2025 18:40:01.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AngelML> mariconada
+[10Jul2025 18:40:07.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Webby80es> Bruh
+[10Jul2025 18:40:23.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Webby80es> Viva franco coño
+[10Jul2025 18:40:44.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Webby80es> Bueno ahora vuelvo pesetero
+[10Jul2025 18:43:37.167] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AngelML lost connection: Disconnected
+[10Jul2025 18:43:37.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML left the game
+[10Jul2025 18:43:37.167] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for a599d386-2ec4-4831-b7b0-92b5326baea2
+[10Jul2025 18:43:37.168] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AngelML
+[10Jul2025 18:43:42.319] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Webby80es lost connection: Disconnected
+[10Jul2025 18:43:42.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es left the game
+[10Jul2025 18:43:42.320] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cb7eef6e-db76-493a-833a-9d516abc0597
+[10Jul2025 18:43:42.320] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Webby80es
