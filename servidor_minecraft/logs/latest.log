@@ -10230,3 +10230,17 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [10Jul2025 19:27:49.412] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AngelML (18)
 [10Jul2025 19:27:49.413] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AngelML
 [10Jul2025 19:28:01.068] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[10Jul2025 19:32:13.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [Hot Stuff]
+[10Jul2025 19:39:21.226] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Webby80es is cb7eef6e-db76-493a-833a-9d516abc0597
+[10Jul2025 19:39:24.093] [pool-8-thread-1/INFO] [Vivecraft/]: Vivecraft: Checking for Updates
+[10Jul2025 19:39:24.094] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Webby80es[/127.150.0.97:56695] logged in with entity id 31651 at (-2330.3998326639944, 25.0, 819.0431617371795)
+[10Jul2025 19:39:24.097] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[10Jul2025 19:39:24.097] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[10Jul2025 19:39:24.125] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Webby80es
+[10Jul2025 19:39:24.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es joined the game
+[10Jul2025 19:39:24.245] [Server thread/INFO] [Jade/]: Syncing config to Webby80es (cb7eef6e-db76-493a-833a-9d516abc0597)
+[10Jul2025 19:39:24.247] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cb7eef6e-db76-493a-833a-9d516abc0597
+[10Jul2025 19:39:29.227] [Server thread/INFO] [ping-wheel/]: Channel update: Webby80es -> default
+[10Jul2025 19:39:29.228] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Webby80es (18)
+[10Jul2025 19:39:29.228] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Webby80es
+[10Jul2025 19:39:43.644] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
