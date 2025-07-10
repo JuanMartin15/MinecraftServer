@@ -10833,3 +10833,57 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [10Jul2025 20:40:33.356] [Worker-Main-83/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
 [10Jul2025 20:40:44.848] [Worker-Main-79/WARN] [lithostitched/]: Non-existent template pool reference: kaisyn:village/meadow_swiss/villagers
 [10Jul2025 20:40:46.845] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3748ms or 74 ticks behind
+[10Jul2025 20:44:05.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to AngelML]
+[10Jul2025 20:44:49.177] [Worker-Main-81/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jul2025 20:44:49.178] [Worker-Main-81/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jul2025 20:45:57.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to AngelML]
+[10Jul2025 20:47:35.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has made the advancement [Called Your Bluff]
+[10Jul2025 20:47:41.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [Called Your Bluff]
+[10Jul2025 20:50:28.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML was slain by Tongbi, the Sculptor
+[10Jul2025 20:50:29.715] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[10Jul2025 20:51:06.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Webby80es moved wrongly!
+[10Jul2025 20:53:13.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML was shot by Skeleton
+[10Jul2025 20:53:14.539] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[10Jul2025 20:53:46.995] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2212, y=81, z=864}
+[10Jul2025 20:54:20.737] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2202, y=86, z=856}
+[10Jul2025 20:54:20.789] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2201, y=87, z=856}
+[10Jul2025 20:54:20.935] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2201, y=88, z=856}
+[10Jul2025 20:54:21.086] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2200, y=88, z=856}
+[10Jul2025 20:54:21.271] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2203, y=86, z=855}
+[10Jul2025 20:54:21.562] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2202, y=86, z=853}
+[10Jul2025 20:54:23.494] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2203, y=86, z=853}
+[10Jul2025 20:54:23.545] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2204, y=86, z=853}
+[10Jul2025 20:54:23.601] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2203, y=86, z=855}
+[10Jul2025 20:54:28.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to AngelML]
+[10Jul2025 20:55:37.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML was slain by Webby80es
+[10Jul2025 20:55:39.136] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[10Jul2025 20:55:41.265] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AngelML lost connection: Disconnected
+[10Jul2025 20:55:41.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML left the game
+[10Jul2025 20:55:41.266] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for a599d386-2ec4-4831-b7b0-92b5326baea2
+[10Jul2025 20:55:41.267] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AngelML
+[10Jul2025 20:55:54.166] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Webby80es lost connection: Disconnected
+[10Jul2025 20:55:54.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es left the game
+[10Jul2025 20:55:54.166] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cb7eef6e-db76-493a-833a-9d516abc0597
+[10Jul2025 20:55:54.167] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Webby80es
+[10Jul2025 20:56:01.033] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AngelML is a599d386-2ec4-4831-b7b0-92b5326baea2
+[10Jul2025 20:56:03.782] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AngelML[/127.174.19.168:47479] logged in with entity id 102162 at (-2194.5, 91.0, 846.5)
+[10Jul2025 20:56:03.785] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[10Jul2025 20:56:03.785] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[10Jul2025 20:56:03.809] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AngelML
+[10Jul2025 20:56:03.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML joined the game
+[10Jul2025 20:56:03.845] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for a599d386-2ec4-4831-b7b0-92b5326baea2
+[10Jul2025 20:56:03.880] [Server thread/INFO] [Jade/]: Syncing config to AngelML (a599d386-2ec4-4831-b7b0-92b5326baea2)
+[10Jul2025 20:56:04.078] [Server thread/INFO] [ping-wheel/]: Channel update: AngelML -> default
+[10Jul2025 20:56:04.078] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AngelML (18)
+[10Jul2025 20:56:04.078] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AngelML
+[10Jul2025 20:56:07.361] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/3, l='ServerLevel[world]', x=-2194.30, y=78.00, z=862.70] died, message: 'Librarian was slain by Zombie'
+[10Jul2025 20:56:09.257] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2, l='ServerLevel[world]', x=-2194.64, y=78.00, z=862.64] died, message: 'Villager was slain by Zombie'
+[10Jul2025 20:56:11.416] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[10Jul2025 20:56:18.080] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2198, y=94, z=851}
+[10Jul2025 20:56:18.182] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2198, y=95, z=851}
+[10Jul2025 20:56:18.328] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2198, y=95, z=851}
+[10Jul2025 20:56:59.928] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2198, y=94, z=851}
+[10Jul2025 20:57:08.212] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AngelML lost connection: Disconnected
+[10Jul2025 20:57:08.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML left the game
+[10Jul2025 20:57:08.213] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for a599d386-2ec4-4831-b7b0-92b5326baea2
+[10Jul2025 20:57:08.213] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AngelML
