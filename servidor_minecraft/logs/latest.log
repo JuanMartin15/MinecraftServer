@@ -10297,3 +10297,504 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [10Jul2025 20:20:10.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML was Exterminated by Cumulonimbus using pure Lightning Energy
 [10Jul2025 20:20:11.632] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
 [10Jul2025 20:20:35.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML was slain by Fallen Chaos Knight
+[10Jul2025 20:20:36.773] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[10Jul2025 20:21:09.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML was Exterminated by Cumulonimbus using pure Lightning Energy
+[10Jul2025 20:21:11.154] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[10Jul2025 20:21:40.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML was slain by Fallen Chaos Knight
+[10Jul2025 20:21:41.797] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[10Jul2025 20:22:25.824] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2939, y=164, z=1303} BlockPos{x=-2940, y=163, z=1305}
+[10Jul2025 20:22:25.872] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2939, y=164, z=1303} BlockPos{x=-2940, y=163, z=1305}
+[10Jul2025 20:22:45.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es was slain by Cumulonimbus
+[10Jul2025 20:22:45.470] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:45.471] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:45.471] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:45.471] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:45.471] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:45.471] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:45.472] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:45.472] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:45.472] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:45.472] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:45.472] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:45.472] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:45.473] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:45.473] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:45.473] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:45.473] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:45.473] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:45.474] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:45.474] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:45.474] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:45.474] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:45.474] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:45.475] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:45.475] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:45.475] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:45.475] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:45.481] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[10Jul2025 20:22:45.481] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 9 is dual wielding: false
+[10Jul2025 20:22:45.481] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[10Jul2025 20:22:45.481] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[10Jul2025 20:22:45.482] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 5 | client: 5
+[10Jul2025 20:22:46.305] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.306] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.306] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.306] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.306] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.306] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.307] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.307] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.307] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.307] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.307] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.308] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.308] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.308] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.308] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.308] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.308] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.308] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.309] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.309] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.309] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.309] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.309] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.310] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.310] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.310] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.310] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.310] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.311] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.311] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.311] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.311] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.311] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.312] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.312] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.312] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.312] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.312] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.312] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.313] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.313] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.313] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.313] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.313] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.314] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.314] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.314] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.314] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.314] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.315] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.315] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.315] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.315] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.315] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.315] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.316] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.316] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.316] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.316] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.316] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.317] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.317] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.317] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.317] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.317] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.318] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.318] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.318] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.318] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.318] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.318] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.319] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.319] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.319] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.319] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.319] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.320] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.320] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.320] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.320] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.321] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.321] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.321] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.322] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.322] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.322] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.322] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.323] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.323] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:46.323] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:46.909] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
+[10Jul2025 20:22:47.326] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['AngelML'/68107, l='ServerLevel[world]', x=-2941.52, y=164.00, z=1303.26] died: AngelML was killed by Cumulonimbus using magic
+[10Jul2025 20:22:47.856] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.857] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.857] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.857] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.857] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.858] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.858] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.858] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.858] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.858] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.858] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.859] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.859] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.859] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.859] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.859] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.860] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.860] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.860] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.860] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.860] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.860] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.861] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.861] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.861] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.861] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.861] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.861] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.862] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.862] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.862] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.862] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.862] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.862] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.863] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.863] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.863] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.863] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.863] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.863] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.864] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.864] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.864] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.864] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.864] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.864] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.864] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.865] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.865] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.865] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.865] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.865] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.865] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.866] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.866] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.866] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.866] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.866] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.866] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.866] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.867] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.867] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.867] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.867] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.867] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.867] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.868] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.868] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.868] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.868] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.868] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.869] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.869] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.869] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.869] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.869] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.869] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.870] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.870] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.870] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.870] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.870] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.870] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.871] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.871] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.871] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.871] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.871] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.871] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.872] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:47.872] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:22:47.872] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:22:48.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to AngelML]
+[10Jul2025 20:23:20.556] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:20.557] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:20.557] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:20.557] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:20.557] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:20.558] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:20.558] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:20.558] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:20.558] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:20.558] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:20.558] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:20.559] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:20.559] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:20.559] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:20.559] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:20.559] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:20.559] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:20.560] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:20.560] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:20.560] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:20.560] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:20.560] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:20.560] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:20.561] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:20.561] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:20.561] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:21.406] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:21.406] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:21.407] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:21.407] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:21.407] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:21.407] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:21.407] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:21.407] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:21.408] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:21.408] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:21.408] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:21.408] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:21.408] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:21.408] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:21.409] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:21.409] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:21.409] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:21.409] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:21.409] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:21.409] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:21.410] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:21.410] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:21.410] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:21.410] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:21.410] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:21.410] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:21.411] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:21.411] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:21.411] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:21.411] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:21.411] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:21.411] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:21.412] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:21.412] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:21.412] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:21.412] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:21.412] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:21.412] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:21.413] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:21.413] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:21.413] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:21.413] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:21.413] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:21.414] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:21.414] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:21.414] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:21.414] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:21.414] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:21.414] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:21.415] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:21.415] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:21.415] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:22.957] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:22.958] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:22.958] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:22.958] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:22.958] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:22.958] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:22.959] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:22.959] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:22.959] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:22.959] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:22.959] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:22.959] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:22.960] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:22.960] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:22.960] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:22.960] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:22.960] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:22.960] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:22.960] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:22.961] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:22.961] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:22.961] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:22.961] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:22.961] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:22.961] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:22.962] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:22.962] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:22.962] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:22.962] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:22.962] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:22.962] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:22.962] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:22.963] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:22.963] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:22.963] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:22.963] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:22.963] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:22.963] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:22.963] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:22.964] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:22.964] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:22.964] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:22.964] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:22.964] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:22.964] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:22.964] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:22.964] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:22.965] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:22.965] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:23:22.965] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:23:24.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML was killed by Cumulonimbus using magic
+[10Jul2025 20:23:25.599] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[10Jul2025 20:24:32.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML was Exterminated by Cumulonimbus using pure Lightning Energy
+[10Jul2025 20:24:33.887] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[10Jul2025 20:25:39.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es was slain by Cumulonimbus
+[10Jul2025 20:25:40.777] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
+[10Jul2025 20:25:41.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML was killed by Cumulonimbus using magic
+[10Jul2025 20:25:41.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to AngelML]
+[10Jul2025 20:25:42.580] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[10Jul2025 20:27:00.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to AngelML]
+[10Jul2025 20:27:11.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [Voluntary Exile]
+[10Jul2025 20:27:42.357] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:42.358] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:42.358] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:42.358] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:42.358] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:42.358] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:42.359] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:42.359] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:42.359] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:42.359] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:42.359] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:42.360] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:42.360] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:42.360] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:42.360] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:42.360] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:42.360] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:42.360] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:42.361] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:42.361] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:42.361] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:42.361] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:42.361] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:42.361] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:42.362] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:42.362] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:42.362] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:42.362] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:42.362] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:42.362] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:42.362] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:42.363] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.206] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.206] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.206] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.207] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.207] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.207] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.207] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.207] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.207] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.208] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.208] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.208] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.208] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.208] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.208] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.208] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.208] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.209] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.209] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.209] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.209] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.209] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.209] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.209] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.209] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.210] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.210] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.210] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.210] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.210] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.210] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.210] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.211] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.211] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.211] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.211] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.211] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.211] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.211] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.212] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.212] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.212] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.212] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.212] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.212] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.213] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.213] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.213] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.213] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.213] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.213] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.213] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.214] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.214] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.214] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.214] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.214] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.214] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.215] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.215] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.215] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.215] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.215] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.215] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.216] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.216] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.216] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.216] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.216] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.216] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.217] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.217] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.217] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.217] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.217] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.217] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.218] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.218] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.218] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.218] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.218] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.218] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.218] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.219] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.219] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.219] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.219] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.219] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.219] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.220] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.220] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.220] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.220] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[10Jul2025 20:27:43.220] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[10Jul2025 20:27:43.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML was killed by Cumulonimbus using magic
+[10Jul2025 20:27:44.490] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[10Jul2025 20:28:40.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to AngelML]
+[10Jul2025 20:29:00.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to AngelML]
+[10Jul2025 20:29:14.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to AngelML]
+[10Jul2025 20:29:15.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML was doomed to fall by Cumulonimbus
+[10Jul2025 20:29:16.667] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[10Jul2025 20:29:33.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has completed the challenge [Against The Gods]
+[10Jul2025 20:29:38.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML was slain by Scarlet Persecutor
+[10Jul2025 20:29:39.589] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[10Jul2025 20:30:17.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML was slain by Scarlet Persecutor
+[10Jul2025 20:30:18.412] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.

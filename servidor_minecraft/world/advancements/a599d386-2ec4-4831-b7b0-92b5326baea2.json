@@ -4229,6 +4229,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-07-10 20:27:11 +0000",
       "minecraft:skeleton": "2025-07-08 18:06:17 +0000",
       "minecraft:vindicator": "2025-07-08 17:45:10 +0000",
       "minecraft:spider": "2025-07-08 18:08:44 +0000",
@@ -11107,74 +11108,74 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-10 20:17:13 +0000"
+      "log_spam_fixer": "2025-07-10 20:27:13 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-07-10 20:17:13 +0000"
+      "log_spam_fixer": "2025-07-10 20:27:13 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-07-10 20:17:13 +0000"
+      "log_spam_fixer": "2025-07-10 20:27:13 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-10 20:17:13 +0000"
+      "log_spam_fixer": "2025-07-10 20:27:13 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-10 20:17:13 +0000"
+      "log_spam_fixer": "2025-07-10 20:27:13 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-10 20:17:13 +0000"
+      "log_spam_fixer": "2025-07-10 20:27:13 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-10 20:17:13 +0000"
+      "log_spam_fixer": "2025-07-10 20:27:13 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-10 20:17:13 +0000"
+      "log_spam_fixer": "2025-07-10 20:27:13 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-10 20:17:13 +0000"
+      "log_spam_fixer": "2025-07-10 20:27:13 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-07-10 20:17:26 +0000",
-      "log_spam_fixer": "2025-07-10 20:17:13 +0000"
+      "requirement": "2025-07-10 20:27:15 +0000",
+      "log_spam_fixer": "2025-07-10 20:27:13 +0000"
     },
     "done": true
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-10 20:17:13 +0000"
+      "log_spam_fixer": "2025-07-10 20:27:13 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-10 20:17:13 +0000"
+      "log_spam_fixer": "2025-07-10 20:27:13 +0000"
     },
     "done": false
   },
@@ -11193,6 +11194,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2025-07-10 20:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-07-10 20:27:11 +0000"
     },
     "done": true
   },
@@ -11231,6 +11238,12 @@
       "has_bricks": "2025-07-10 19:53:41 +0000"
     },
     "done": true
+  },
+  "born_in_chaos_v1:hatman": {
+    "criteria": {
+      "hatman_0": "2025-07-10 20:19:34 +0000"
+    },
+    "done": false
   },
   "supplementaries:adventure/way_sign": {
     "criteria": {
