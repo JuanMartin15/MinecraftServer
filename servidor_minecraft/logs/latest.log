@@ -10244,3 +10244,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [10Jul2025 19:39:29.228] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Webby80es (18)
 [10Jul2025 19:39:29.228] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Webby80es
 [10Jul2025 19:39:43.644] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
+[10Jul2025 19:44:53.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [This Must be a Sign!]
+[10Jul2025 19:49:46.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to AngelML]
