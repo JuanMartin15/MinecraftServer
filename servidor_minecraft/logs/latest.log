@@ -10135,3 +10135,72 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [10Jul2025 18:18:05.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AngelML> no me funciona el mapa webby
 [10Jul2025 18:18:12.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Webby80es> Como?
 [10Jul2025 18:18:47.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Webby80es> Ostia creo que se borraron las cosas del minimapa WTF
+[10Jul2025 18:26:13.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AngelML> bro webby que no puedo descubrir ni ver nada
+[10Jul2025 18:26:14.736] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AngelML lost connection: Disconnected
+[10Jul2025 18:26:14.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML left the game
+[10Jul2025 18:26:14.739] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for a599d386-2ec4-4831-b7b0-92b5326baea2
+[10Jul2025 18:26:14.760] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AngelML
+[10Jul2025 18:26:17.306] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AngelML is a599d386-2ec4-4831-b7b0-92b5326baea2
+[10Jul2025 18:26:20.360] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AngelML[/127.174.19.168:50775] logged in with entity id 7642 at (-2284.699999988079, 63.0, 1273.8674668935048)
+[10Jul2025 18:26:20.363] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[10Jul2025 18:26:20.363] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[10Jul2025 18:26:20.391] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AngelML
+[10Jul2025 18:26:20.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML joined the game
+[10Jul2025 18:26:20.418] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for a599d386-2ec4-4831-b7b0-92b5326baea2
+[10Jul2025 18:26:20.710] [Server thread/INFO] [Jade/]: Syncing config to AngelML (a599d386-2ec4-4831-b7b0-92b5326baea2)
+[10Jul2025 18:26:20.724] [Server thread/INFO] [ping-wheel/]: Channel update: AngelML -> default
+[10Jul2025 18:26:20.725] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AngelML (18)
+[10Jul2025 18:26:20.726] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AngelML
+[10Jul2025 18:26:23.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Webby80es> Que
+[10Jul2025 18:26:26.769] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[10Jul2025 18:26:39.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AngelML> me sale todo en negro bro
+[10Jul2025 18:26:45.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7433ms or 148 ticks behind
+[10Jul2025 18:26:50.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to AngelML]
+[10Jul2025 18:27:32.031] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Webby80es is cb7eef6e-db76-493a-833a-9d516abc0597
+[10Jul2025 18:27:07.786] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[10Jul2025 18:27:45.978] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Webby80es lost connection: Disconnected
+[10Jul2025 18:27:45.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es left the game
+[10Jul2025 18:27:45.979] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cb7eef6e-db76-493a-833a-9d516abc0597
+[10Jul2025 18:27:45.980] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Webby80es
+[10Jul2025 18:27:46.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Spectator Mode]
+[10Jul2025 18:27:46.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2253.500000, 72.500000, 952.500000]
+[10Jul2025 18:27:46.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2180.500000, 86.500000, 826.500000]
+[10Jul2025 18:27:46.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AngelML> y no me deja descubrir
+[10Jul2025 18:27:48.186] [pool-8-thread-1/INFO] [Vivecraft/]: Vivecraft: Checking for Updates
+[10Jul2025 18:27:48.188] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Webby80es[/127.150.0.97:41881] logged in with entity id 8220 at (-2283.528770151521, 63.0, 1276.7591712120031)
+[10Jul2025 18:27:48.191] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[10Jul2025 18:27:48.191] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[10Jul2025 18:27:48.226] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Webby80es
+[10Jul2025 18:27:48.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es joined the game
+[10Jul2025 18:27:48.412] [Server thread/INFO] [Jade/]: Syncing config to Webby80es (cb7eef6e-db76-493a-833a-9d516abc0597)
+[10Jul2025 18:27:48.415] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cb7eef6e-db76-493a-833a-9d516abc0597
+[10Jul2025 18:27:52.195] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 51348ms or 1026 ticks behind
+[10Jul2025 18:27:52.480] [Server thread/INFO] [ping-wheel/]: Channel update: Webby80es -> default
+[10Jul2025 18:27:52.480] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Webby80es (18)
+[10Jul2025 18:27:52.480] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Webby80es
+[10Jul2025 18:27:57.174] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
+[10Jul2025 18:28:06.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Webby80es> Como que va
+[10Jul2025 18:28:10.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AngelML> tienes lava?
+[10Jul2025 18:28:14.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Webby80es> Que va
+[10Jul2025 18:28:29.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AngelML> diablo
+[10Jul2025 18:28:48.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AngelML> subnormal que me mata
+[10Jul2025 18:28:52.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Webby80es> xD
+[10Jul2025 18:29:10.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AngelML> mira
+[10Jul2025 18:29:16.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Webby80es> ostia
+[10Jul2025 18:30:10.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es was shot by Bonescaller
+[10Jul2025 18:30:12.097] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
+[10Jul2025 18:30:15.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AngelML> bro como me hago armadura
+[10Jul2025 18:30:17.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AngelML> JAJAJAJ
+[10Jul2025 18:30:28.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Webby80es> Es complicadisimo hacerse una armadura
+[10Jul2025 18:31:46.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es drowned
+[10Jul2025 18:31:46.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Webby80es> ostia-
+[10Jul2025 18:31:47.733] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
+[10Jul2025 18:31:56.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Webby80es> Se me esta liando
+[10Jul2025 18:32:29.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es was slain by Nightmare Stalker
+[10Jul2025 18:32:32.363] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
+[10Jul2025 18:32:41.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2293.500000, 66.500000, 1382.500000]
+[10Jul2025 18:32:58.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has made the advancement ['Kill Yourself' Has Acquired a New Meaning]
+[10Jul2025 18:32:58.541] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Webby80es'/12264, l='ServerLevel[world]', x=-2300.01, y=67.00, z=1380.49] died: Webby80es was slain by Webby80es
+[10Jul2025 18:33:27.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2315.500000, 100.500000, 856.500000]
+[10Jul2025 18:37:11.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AngelML> vamos a una dungeon??
+[10Jul2025 18:37:22.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Webby80es> Ahora si eso que voy a hacer unas cosas
