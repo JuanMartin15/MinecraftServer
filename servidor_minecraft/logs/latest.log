@@ -10246,3 +10246,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [10Jul2025 19:39:43.644] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
 [10Jul2025 19:44:53.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [This Must be a Sign!]
 [10Jul2025 19:49:46.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to AngelML]
+[10Jul2025 19:50:33.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2313.500000, 100.500000, 845.500000]
+[10Jul2025 19:50:58.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Spectator Mode]
+[10Jul2025 19:59:24.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to AngelML]
