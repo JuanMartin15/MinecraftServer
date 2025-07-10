@@ -10218,3 +10218,15 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [10Jul2025 18:43:42.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es left the game
 [10Jul2025 18:43:42.320] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cb7eef6e-db76-493a-833a-9d516abc0597
 [10Jul2025 18:43:42.320] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Webby80es
+[10Jul2025 19:27:44.136] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AngelML is a599d386-2ec4-4831-b7b0-92b5326baea2
+[10Jul2025 19:27:46.985] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AngelML[/127.174.19.168:45047] logged in with entity id 21848 at (-2315.9594542823443, 95.0, 855.8138041423176)
+[10Jul2025 19:27:46.988] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[10Jul2025 19:27:46.988] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[10Jul2025 19:27:47.015] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AngelML
+[10Jul2025 19:27:47.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML joined the game
+[10Jul2025 19:27:47.067] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for a599d386-2ec4-4831-b7b0-92b5326baea2
+[10Jul2025 19:27:47.100] [Server thread/INFO] [Jade/]: Syncing config to AngelML (a599d386-2ec4-4831-b7b0-92b5326baea2)
+[10Jul2025 19:27:49.390] [Server thread/INFO] [ping-wheel/]: Channel update: AngelML -> default
+[10Jul2025 19:27:49.412] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AngelML (18)
+[10Jul2025 19:27:49.413] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AngelML
+[10Jul2025 19:28:01.068] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
