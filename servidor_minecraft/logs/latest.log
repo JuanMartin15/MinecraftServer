@@ -10249,3 +10249,37 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [10Jul2025 19:50:33.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2313.500000, 100.500000, 845.500000]
 [10Jul2025 19:50:58.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Spectator Mode]
 [10Jul2025 19:59:24.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to AngelML]
+[10Jul2025 20:02:21.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to AngelML]
+[10Jul2025 20:03:21.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[10Jul2025 20:03:45.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[10Jul2025 20:04:07.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to AngelML]
+[10Jul2025 20:04:46.220] [Worker-Main-85/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_main_room_pool
+[10Jul2025 20:04:46.221] [Worker-Main-85/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_1_pool
+[10Jul2025 20:04:46.221] [Worker-Main-85/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_3_pool
+[10Jul2025 20:04:46.221] [Worker-Main-85/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_2_pool
+[10Jul2025 20:04:52.556] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[10Jul2025 20:05:00.147] [Worker-Main-84/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jul2025 20:05:00.152] [Worker-Main-84/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jul2025 20:05:00.793] [Worker-Main-85/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:house_basement_pool
+[10Jul2025 20:05:00.794] [Worker-Main-85/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[10Jul2025 20:05:00.796] [Worker-Main-85/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[10Jul2025 20:05:00.796] [Worker-Main-85/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[10Jul2025 20:05:00.796] [Worker-Main-85/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[10Jul2025 20:05:04.147] [Worker-Main-75/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[10Jul2025 20:05:04.147] [Worker-Main-75/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[10Jul2025 20:05:04.147] [Worker-Main-75/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[10Jul2025 20:05:04.147] [Worker-Main-75/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[10Jul2025 20:05:04.147] [Worker-Main-75/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_additions_3_pool
+[10Jul2025 20:05:04.148] [Worker-Main-75/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[10Jul2025 20:05:04.151] [Worker-Main-75/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[10Jul2025 20:05:04.151] [Worker-Main-75/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[10Jul2025 20:05:05.579] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[10Jul2025 20:05:08.737] [Worker-Main-86/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jul2025 20:05:08.738] [Worker-Main-86/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[10Jul2025 20:05:14.080] [Worker-Main-84/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-2984, y=-53, z=1215}
+[10Jul2025 20:05:14.080] [Worker-Main-84/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2984, y=-52, z=1215}
+[10Jul2025 20:05:29.879] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2842, y=13, z=1442}
+[10Jul2025 20:05:35.233] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2822, y=-1, z=1458}
+[10Jul2025 20:06:48.874] [Worker-Main-92/WARN] [lithostitched/]: Non-existent template pool reference: kaisyn:village/meadow_swiss/villagers
+[10Jul2025 20:08:33.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has completed the challenge [Overkill]
+[10Jul2025 20:09:52.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [Cover Me with Diamonds]
