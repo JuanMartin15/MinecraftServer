@@ -10125,3 +10125,52 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [11Jul2025 20:50:53.152] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatCommandPacket
 [11Jul2025 20:50:53.154] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatPacket
 [11Jul2025 20:50:53.155] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatSessionUpdatePacket
+[11Jul2025 22:21:13.927] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AngelML is a599d386-2ec4-4831-b7b0-92b5326baea2
+[11Jul2025 22:21:16.628] [Netty Epoll Server IO #4/WARN] [mixin/]: @ModifyConstant conflict. Skipping packetfixer.v1_19_4.forge.mixins.json:v1_19_4_forge.CompressionEncoderMixin->@ModifyConstant::packetfixer$newSize(I)I with priority 1000, already redirected by connectivity.mixins.json:CompressionEncoderMixin->@ModifyConstant::modifyLimit(I)I with priority 1000
+[11Jul2025 22:21:16.628] [Netty Epoll Server IO #4/WARN] [mixin/]: @ModifyConstant conflict. Skipping packetfixer.v1_19_4.forge.mixins.json:v1_19_4_forge.CompressionEncoderMixin->@ModifyConstant::packetfixer$newSize(I)I with priority 1000, already redirected by connectivity.mixins.json:CompressionEncoderMixin->@ModifyConstant::modifyLimit(I)I with priority 1000
+[11Jul2025 22:21:16.894] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AngelML[/127.174.19.168:41587] logged in with entity id 779 at (-2039.1344921649024, 66.0, 3451.87762173275)
+[11Jul2025 22:21:16.979] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[11Jul2025 22:21:16.980] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[11Jul2025 22:21:18.449] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AngelML
+[11Jul2025 22:21:18.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML joined the game
+[11Jul2025 22:21:18.597] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for a599d386-2ec4-4831-b7b0-92b5326baea2
+[11Jul2025 22:21:18.948] [Server thread/INFO] [Jade/]: Syncing config to AngelML (a599d386-2ec4-4831-b7b0-92b5326baea2)
+[11Jul2025 22:21:19.122] [Server thread/INFO] [ping-wheel/]: Channel update: AngelML -> default
+[11Jul2025 22:21:19.124] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AngelML (18)
+[11Jul2025 22:21:19.128] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AngelML
+[11Jul2025 22:21:19.200] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2384ms or 47 ticks behind
+[11Jul2025 22:21:39.459] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[11Jul2025 22:21:50.113] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15947ms or 318 ticks behind
+[11Jul2025 22:22:27.728] [Worker-Main-130/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[11Jul2025 22:22:27.728] [Worker-Main-130/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[11Jul2025 22:22:27.729] [Worker-Main-130/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[11Jul2025 22:22:27.729] [Worker-Main-130/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[11Jul2025 22:22:27.731] [Worker-Main-130/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[11Jul2025 22:22:27.731] [Worker-Main-130/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[11Jul2025 22:22:27.731] [Worker-Main-130/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[11Jul2025 22:22:27.732] [Worker-Main-130/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[11Jul2025 22:22:29.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML was slain by Baby Skeleton
+[11Jul2025 22:22:30.784] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[11Jul2025 22:22:31.106] [Worker-Main-135/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;1154287141,-1131000828,-1722453399,506254198],type:"minecraft:entity",y_offset:0.36f}}]
+[11Jul2025 22:22:41.530] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[11Jul2025 22:22:45.433] [Worker-Main-133/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1928, y=69, z=2139}
+[11Jul2025 22:22:45.469] [Worker-Main-130/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1899, y=63, z=2129}
+[11Jul2025 22:22:45.470] [Worker-Main-130/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1898, y=67, z=2136}
+[11Jul2025 22:22:45.470] [Worker-Main-130/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1895, y=69, z=2141}
+[11Jul2025 22:22:45.470] [Worker-Main-130/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1901, y=67, z=2135}
+[11Jul2025 22:22:45.491] [Worker-Main-103/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1906, y=68, z=2140}
+[11Jul2025 22:22:45.491] [Worker-Main-103/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1914, y=66, z=2140}
+[11Jul2025 22:22:45.553] [Worker-Main-130/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1985, y=66, z=2138}
+[11Jul2025 22:22:45.595] [Worker-Main-130/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1962, y=68, z=2140}
+[11Jul2025 22:22:45.596] [Worker-Main-130/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1962, y=68, z=2143}
+[11Jul2025 22:22:45.628] [Worker-Main-130/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1940, y=65, z=2132}
+[11Jul2025 22:22:45.671] [Worker-Main-133/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1984, y=58, z=2131}
+[11Jul2025 22:22:45.672] [Worker-Main-133/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1982, y=58, z=2128}
+[11Jul2025 22:22:45.672] [Worker-Main-133/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1972, y=67, z=2140}
+[11Jul2025 22:22:46.883] [Worker-Main-125/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1884, y=62, z=2142}
+[11Jul2025 22:22:46.884] [Worker-Main-125/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1888, y=61, z=2142}
+[11Jul2025 22:22:47.232] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AngelML lost connection: Disconnected
+[11Jul2025 22:22:47.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML left the game
+[11Jul2025 22:22:47.234] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for a599d386-2ec4-4831-b7b0-92b5326baea2
+[11Jul2025 22:22:47.237] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AngelML
+[11Jul2025 22:22:47.346] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
