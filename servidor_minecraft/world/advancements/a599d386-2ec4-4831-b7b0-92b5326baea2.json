@@ -11583,73 +11583,74 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-11 15:40:44 +0000"
+      "log_spam_fixer": "2025-07-11 15:55:08 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-07-11 15:40:44 +0000"
+      "log_spam_fixer": "2025-07-11 15:55:08 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-07-11 15:40:44 +0000"
+      "log_spam_fixer": "2025-07-11 15:55:08 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-11 15:40:44 +0000"
+      "log_spam_fixer": "2025-07-11 15:55:08 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-11 15:40:44 +0000"
+      "log_spam_fixer": "2025-07-11 15:55:08 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-11 15:40:44 +0000"
+      "log_spam_fixer": "2025-07-11 15:55:08 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-11 15:40:44 +0000"
+      "log_spam_fixer": "2025-07-11 15:55:08 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-11 15:40:44 +0000"
+      "log_spam_fixer": "2025-07-11 15:55:08 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-11 15:40:44 +0000"
+      "log_spam_fixer": "2025-07-11 15:55:08 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-07-11 15:40:44 +0000"
+      "requirement": "2025-07-11 15:56:02 +0000",
+      "log_spam_fixer": "2025-07-11 15:55:08 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-11 15:40:44 +0000"
+      "log_spam_fixer": "2025-07-11 15:55:08 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-11 15:40:44 +0000"
+      "log_spam_fixer": "2025-07-11 15:55:08 +0000"
     },
     "done": false
   },
@@ -11668,6 +11669,12 @@
   "biomemakeover:biomemakeover/create_peat_farmland": {
     "criteria": {
       "create_peat": "2025-07-11 15:35:28 +0000"
+    },
+    "done": true
+  },
+  "shieldexp:get_diamond_shield": {
+    "criteria": {
+      "diamond_shield": "2025-07-11 15:49:03 +0000"
     },
     "done": true
   },
