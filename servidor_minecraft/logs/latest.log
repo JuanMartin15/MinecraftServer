@@ -10254,3 +10254,51 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [11Jul2025 14:39:57.372] [Worker-Main-13/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
 [11Jul2025 14:39:57.372] [Worker-Main-13/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
 [11Jul2025 14:39:57.372] [Worker-Main-13/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[11Jul2025 14:51:09.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 has made the advancement [Walking on Thin Ice]
+[11Jul2025 14:52:43.199] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[11Jul2025 14:52:43.200] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[11Jul2025 14:52:43.201] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[11Jul2025 14:52:43.201] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[11Jul2025 14:52:43.201] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[11Jul2025 14:52:43.202] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[11Jul2025 14:52:43.202] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[11Jul2025 14:52:46.371] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: kaisyn:village/meadow_swiss/villagers
+[11Jul2025 14:52:46.552] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: kaisyn:village/meadow_swiss/villagers
+[11Jul2025 14:53:12.167] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_main_room_pool
+[11Jul2025 14:53:12.168] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_2_pool
+[11Jul2025 14:53:12.168] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_3_pool
+[11Jul2025 14:53:12.168] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_1_pool
+[11Jul2025 14:53:23.863] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-124, y=-57, z=1073}
+[11Jul2025 14:53:23.906] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-126, y=-57, z=1073}
+[11Jul2025 14:53:23.907] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-128, y=-57, z=1073}
+[11Jul2025 14:53:23.907] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-125, y=-57, z=1073}
+[11Jul2025 14:53:23.907] [Worker-Main-7/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-128, y=-57, z=1073}
+[11Jul2025 14:53:29.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[11Jul2025 14:53:31.107] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Webby80es lost connection: Timed out
+[11Jul2025 14:53:31.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es left the game
+[11Jul2025 14:53:31.110] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cb7eef6e-db76-493a-833a-9d516abc0597
+[11Jul2025 14:53:31.115] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Webby80es
+[11Jul2025 14:53:31.182] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11Jul2025 14:53:36.030] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Webby80es is cb7eef6e-db76-493a-833a-9d516abc0597
+[11Jul2025 14:53:39.029] [pool-8-thread-1/INFO] [Vivecraft/]: Vivecraft: Checking for Updates
+[11Jul2025 14:53:39.031] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Webby80es[/127.150.0.97:37373] logged in with entity id 55707 at (-2283.6109917922404, 87.0, 812.7272203759637)
+[11Jul2025 14:53:39.034] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[11Jul2025 14:53:39.034] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[11Jul2025 14:53:39.060] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Webby80es
+[11Jul2025 14:53:39.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es joined the game
+[11Jul2025 14:53:39.212] [Server thread/INFO] [Jade/]: Syncing config to Webby80es (cb7eef6e-db76-493a-833a-9d516abc0597)
+[11Jul2025 14:53:39.213] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cb7eef6e-db76-493a-833a-9d516abc0597
+[11Jul2025 14:53:39.472] [Server thread/INFO] [ping-wheel/]: Channel update: Webby80es -> default
+[11Jul2025 14:53:39.472] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Webby80es (18)
+[11Jul2025 14:53:39.473] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Webby80es
+[11Jul2025 14:53:49.955] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
+[11Jul2025 14:54:08.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2263.500000, 63.500000, 849.500000]
+[11Jul2025 14:54:15.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2238.500000, 88.500000, 843.500000]
+[11Jul2025 14:55:37.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 has completed the challenge [Overkill]
+[11Jul2025 14:56:11.211] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
+[11Jul2025 14:56:11.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18359ms or 367 ticks behind
+[11Jul2025 14:56:11.333] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlejaXxD13 lost connection: Disconnected
+[11Jul2025 14:56:11.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 left the game
+[11Jul2025 14:56:11.334] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 78a7c604-8d16-4a3d-8ac9-4c8e6f9dd90c
+[11Jul2025 14:56:11.335] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AlejaXxD13
+[11Jul2025 14:56:14.191] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [8 above bottom-0 absolute]
