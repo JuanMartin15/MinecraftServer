@@ -10360,3 +10360,138 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [11Jul2025 15:04:23.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2323.500000, 39.500000, 850.500000]
 [11Jul2025 15:04:26.135] [Server thread/INFO] [do_a_barrel_roll/]: Client of AlejaXxD13 accepted server config.
 [11Jul2025 15:04:49.519] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[11Jul2025 15:06:50.857] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-80}
+[11Jul2025 15:07:10.686] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-50, z=-77}
+[11Jul2025 15:07:13.342] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[11Jul2025 15:07:13.342] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[11Jul2025 15:07:13.342] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[11Jul2025 15:07:13.343] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[11Jul2025 15:07:13.343] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_additions_3_pool
+[11Jul2025 15:07:13.343] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_additions_3_pool
+[11Jul2025 15:07:13.343] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[11Jul2025 15:07:13.343] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[11Jul2025 15:07:24.230] [Worker-Main-9/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:lumberjack_additions_3_pool
+[11Jul2025 15:07:24.231] [Worker-Main-9/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:lumberjack_additions_3_pool
+[11Jul2025 15:07:24.231] [Worker-Main-9/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:lumberjack_additions_3_pool
+[11Jul2025 15:07:24.232] [Worker-Main-9/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:lumberjack_end_1_pool
+[11Jul2025 15:07:24.232] [Worker-Main-9/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:lumberjack_end_1_pool
+[11Jul2025 15:07:56.661] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Jul2025 15:07:56.662] [Worker-Main-11/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Jul2025 15:08:05.930] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Jul2025 15:08:05.931] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[11Jul2025 15:09:24.634] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
+[11Jul2025 15:09:24.681] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12016ms or 240 ticks behind
+[11Jul2025 15:09:25.056] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AngelML is a599d386-2ec4-4831-b7b0-92b5326baea2
+[11Jul2025 15:09:28.104] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AngelML[/127.174.19.168:34513] logged in with entity id 73254 at (-2196.812628877692, 93.5, 849.5266726533788)
+[11Jul2025 15:09:28.107] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[11Jul2025 15:09:28.107] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[11Jul2025 15:09:28.130] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AngelML
+[11Jul2025 15:09:28.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML joined the game
+[11Jul2025 15:09:28.174] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for a599d386-2ec4-4831-b7b0-92b5326baea2
+[11Jul2025 15:09:28.206] [Server thread/INFO] [Jade/]: Syncing config to AngelML (a599d386-2ec4-4831-b7b0-92b5326baea2)
+[11Jul2025 15:09:30.762] [Server thread/INFO] [ping-wheel/]: Channel update: AngelML -> default
+[11Jul2025 15:09:30.812] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AngelML (18)
+[11Jul2025 15:09:30.812] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AngelML
+[11Jul2025 15:09:40.220] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[11Jul2025 15:09:49.752] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[11Jul2025 15:10:19.671] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[11Jul2025 15:10:40.022] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[11Jul2025 15:10:57.964] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2949ms or 58 ticks behind
+[11Jul2025 15:11:16.131] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3215ms or 64 ticks behind
+[11Jul2025 15:11:27.442] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2198, y=92, z=842}
+[11Jul2025 15:11:27.552] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2198, y=92, z=843}
+[11Jul2025 15:11:28.011] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2198, y=92, z=842}
+[11Jul2025 15:11:28.119] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2198, y=92, z=841}
+[11Jul2025 15:11:28.176] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2199, y=92, z=842}
+[11Jul2025 15:11:33.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[11Jul2025 15:11:34.874] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2198, y=94, z=855}
+[11Jul2025 15:11:34.978] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2197, y=94, z=855}
+[11Jul2025 15:11:35.077] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2196, y=94, z=855}
+[11Jul2025 15:11:35.528] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2197, y=94, z=855}
+[11Jul2025 15:11:36.233] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2198, y=94, z=855}
+[11Jul2025 15:11:36.234] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2197, y=94, z=855}
+[11Jul2025 15:11:36.434] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2198, y=94, z=855}
+[11Jul2025 15:11:36.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2199, y=94, z=855}
+[11Jul2025 15:11:36.590] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2200, y=94, z=855}
+[11Jul2025 15:11:36.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2199, y=94, z=855}
+[11Jul2025 15:11:48.760] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[11Jul2025 15:11:54.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported AngelML to -3466.500000, 145.000000, 1455.500000]
+[11Jul2025 15:12:03.734] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[11Jul2025 15:12:04.002] [Worker-Main-15/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-2101, y=6, z=-1009}
+[11Jul2025 15:12:04.003] [Worker-Main-15/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-2100, y=6, z=-1009}
+[11Jul2025 15:12:04.003] [Worker-Main-15/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-2099, y=6, z=-1009}
+[11Jul2025 15:12:04.213] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2226, y=-12, z=-1006}
+[11Jul2025 15:12:04.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [Strange Biomes]
+[11Jul2025 15:12:13.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25238ms or 504 ticks behind
+[11Jul2025 15:12:38.281] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
+[11Jul2025 15:12:41.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported AngelML to -3466.500000, 145.000000, 1455.500000]
+[11Jul2025 15:12:41.952] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[11Jul2025 15:12:51.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[11Jul2025 15:13:00.285] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3615, y=-54, z=1364}
+[11Jul2025 15:13:00.285] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3615, y=-54, z=1364}
+[11Jul2025 15:13:00.286] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3615, y=-54, z=1364}
+[11Jul2025 15:13:10.461] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Elpompetas is f1560095-bd08-4100-b4d8-75c6e03f0dc3
+[11Jul2025 15:13:11.297] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4382ms or 87 ticks behind
+[11Jul2025 15:13:13.655] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elpompetas[/127.47.61.107:51009] logged in with entity id 77545 at (-2393.702783596853, 23.68506823221382, 799.1644361878775)
+[11Jul2025 15:13:13.658] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[11Jul2025 15:13:13.658] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[11Jul2025 15:13:13.681] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Elpompetas
+[11Jul2025 15:13:13.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas joined the game
+[11Jul2025 15:13:13.710] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f1560095-bd08-4100-b4d8-75c6e03f0dc3
+[11Jul2025 15:13:13.742] [Server thread/INFO] [Jade/]: Syncing config to Elpompetas (f1560095-bd08-4100-b4d8-75c6e03f0dc3)
+[11Jul2025 15:13:17.640] [Server thread/INFO] [ping-wheel/]: Channel update: Elpompetas -> default
+[11Jul2025 15:13:17.641] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Elpompetas (18)
+[11Jul2025 15:13:17.641] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Elpompetas
+[11Jul2025 15:13:25.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2323.500000, 39.500000, 850.500000]
+[11Jul2025 15:13:26.710] [Server thread/INFO] [do_a_barrel_roll/]: Client of Elpompetas accepted server config.
+[11Jul2025 15:13:32.393] [Worker-Main-4/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[11Jul2025 15:13:32.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas fell from a high place
+[11Jul2025 15:13:33.512] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7247ms or 144 ticks behind
+[11Jul2025 15:13:35.535] [Server thread/INFO] [do_a_barrel_roll/]: Client of Elpompetas accepted server config.
+[11Jul2025 15:13:46.672] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3692, y=-53, z=1190}
+[11Jul2025 15:13:46.673] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3692, y=-53, z=1190}
+[11Jul2025 15:13:48.275] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-222, y=-51, z=-80}
+[11Jul2025 15:13:48.818] [Worker-Main-6/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/78646, l='ServerLevel[world]', x=-3718.50, y=-53.00, z=1276.50] as it would cause deadlock
+[11Jul2025 15:13:49.012] [Worker-Main-6/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/78656, l='ServerLevel[world]', x=-3718.50, y=-53.00, z=1284.50] as it would cause deadlock
+[11Jul2025 15:13:53.908] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3733, y=-54, z=1320}
+[11Jul2025 15:13:53.908] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3732, y=-53, z=1320}
+[11Jul2025 15:13:53.908] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3731, y=-53, z=1320}
+[11Jul2025 15:13:53.908] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3733, y=-54, z=1320}
+[11Jul2025 15:13:53.908] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3732, y=-53, z=1320}
+[11Jul2025 15:13:53.908] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-3731, y=-53, z=1320}
+[11Jul2025 15:13:54.658] [Worker-Main-12/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-222, y=-51, z=-77}
+[11Jul2025 15:13:54.785] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[11Jul2025 15:13:55.622] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7156ms or 143 ticks behind
+[11Jul2025 15:13:58.293] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-3483, y=-10, z=1168}
+[11Jul2025 15:13:59.485] [Worker-Main-7/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/79466, l='ServerLevel[world]', x=-3756.50, y=-53.00, z=1200.50] as it would cause deadlock
+[11Jul2025 15:14:17.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6513ms or 130 ticks behind
+[11Jul2025 15:14:39.290] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7175ms or 143 ticks behind
+[11Jul2025 15:15:00.618] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6353ms or 127 ticks behind
+[11Jul2025 15:15:21.866] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6251ms or 125 ticks behind
+[11Jul2025 15:15:28.248] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/75804, l='ServerLevel[world]', x=-3479.48, y=-20.00, z=1418.47] died: Restless Spirit was killed
+[11Jul2025 15:15:32.798] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/75852, l='ServerLevel[world]', x=-3481.32, y=-20.00, z=1479.93] died: Restless Spirit was killed
+[11Jul2025 15:15:36.494] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AngelML lost connection: Disconnected
+[11Jul2025 15:15:36.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML left the game
+[11Jul2025 15:15:36.495] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for a599d386-2ec4-4831-b7b0-92b5326baea2
+[11Jul2025 15:15:36.496] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AngelML
+[11Jul2025 15:15:36.659] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[11Jul2025 15:15:42.459] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5594ms or 111 ticks behind
+[11Jul2025 15:15:43.736] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/76156, l='ServerLevel[world]', x=-3476.33, y=-20.00, z=1459.06] died: Restless Spirit was killed
+[11Jul2025 15:15:45.889] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/76203, l='ServerLevel[world]', x=-3449.14, y=-20.00, z=1422.45] died: Restless Spirit was killed
+[11Jul2025 15:15:45.890] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/76205, l='ServerLevel[world]', x=-3455.74, y=-20.00, z=1447.57] died: Restless Spirit was killed
+[11Jul2025 15:15:51.654] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/76345, l='ServerLevel[world]', x=-3494.02, y=-20.00, z=1435.93] died: Restless Spirit was killed
+[11Jul2025 15:15:53.919] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/76386, l='ServerLevel[world]', x=-3491.66, y=-20.00, z=1463.47] died: Restless Spirit was killed
+[11Jul2025 15:15:53.921] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/76394, l='ServerLevel[world]', x=-3452.81, y=-20.00, z=1501.50] died: Restless Spirit was killed
+[11Jul2025 15:15:53.922] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/76396, l='ServerLevel[world]', x=-3466.89, y=-20.00, z=1501.12] died: Restless Spirit was killed
+[11Jul2025 15:15:56.170] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/76434, l='ServerLevel[world]', x=-3472.27, y=-20.00, z=1459.23] died: Restless Spirit was killed
+[11Jul2025 15:15:56.171] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/76436, l='ServerLevel[world]', x=-3465.25, y=-20.00, z=1447.35] died: Restless Spirit was killed
+[11Jul2025 15:15:58.586] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/76468, l='ServerLevel[world]', x=-3514.78, y=-20.00, z=1483.58] died: Restless Spirit was killed
+[11Jul2025 15:15:58.587] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/76470, l='ServerLevel[world]', x=-3518.55, y=-20.00, z=1479.31] died: Restless Spirit was killed
+[11Jul2025 15:15:58.588] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/76472, l='ServerLevel[world]', x=-3526.40, y=-20.00, z=1478.45] died: Restless Spirit was killed
+[11Jul2025 15:15:58.589] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/76489, l='ServerLevel[world]', x=-3463.88, y=-20.00, z=1489.59] died: Restless Spirit was killed
+[11Jul2025 15:15:59.635] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2220ms or 44 ticks behind
+[11Jul2025 15:16:01.026] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/76536, l='ServerLevel[world]', x=-3489.07, y=-20.00, z=1417.77] died: Restless Spirit was killed
+[11Jul2025 15:16:01.027] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/76543, l='ServerLevel[world]', x=-3433.39, y=-20.00, z=1389.60] died: Restless Spirit was killed
+[11Jul2025 15:16:17.218] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2602ms or 52 ticks behind
+[11Jul2025 15:16:34.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas bled to death
+[11Jul2025 15:16:42.640] [Server thread/INFO] [do_a_barrel_roll/]: Client of Elpompetas accepted server config.
