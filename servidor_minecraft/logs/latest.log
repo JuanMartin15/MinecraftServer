@@ -15056,3 +15056,21 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [11Jul2025 16:17:58.070] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AlejaXxD13
 [11Jul2025 16:18:03.824] [Server thread/INFO] [do_a_barrel_roll/]: Client of AlejaXxD13 accepted server config.
 [11Jul2025 16:18:21.417] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10152ms or 203 ticks behind
+[11Jul2025 16:18:48.764] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[11Jul2025 16:18:49.241] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
+[11Jul2025 16:18:50.483] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2143, y=26, z=-268}
+[11Jul2025 16:18:58.880] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2127, y=-24, z=-166}
+[11Jul2025 16:19:02.896] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[11Jul2025 16:19:02.932] [Server thread/INFO] [VivecraftServer/]: Vivecraft: shutting down vivecraft scheduler
+[11Jul2025 16:19:02.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[11Jul2025 16:19:02.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[11Jul2025 16:19:03.021] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Webby80es lost connection: Server closed
+[11Jul2025 16:19:03.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es left the game
+[11Jul2025 16:19:03.021] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cb7eef6e-db76-493a-833a-9d516abc0597
+[11Jul2025 16:19:03.037] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Swordragons lost connection: Server closed
+[11Jul2025 16:19:03.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Swordragons left the game
+[11Jul2025 16:19:03.037] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 39d9e18d-44a2-486f-b4f3-b40845c02da6
+[11Jul2025 16:19:03.046] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlejaXxD13 lost connection: Server closed
+[11Jul2025 16:19:03.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 left the game
+[11Jul2025 16:19:03.047] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 78a7c604-8d16-4a3d-8ac9-4c8e6f9dd90c
+[11Jul2025 16:19:03.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
