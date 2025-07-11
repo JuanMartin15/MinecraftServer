@@ -13237,75 +13237,87 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-07-11 15:25:45 +0000"
+      "log_spam_fixer": "2025-07-11 15:31:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-07-11 15:25:45 +0000"
+      "log_spam_fixer": "2025-07-11 15:31:38 +0000"
     },
     "done": false
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-11 15:25:45 +0000"
+      "log_spam_fixer": "2025-07-11 15:31:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-07-11 15:25:45 +0000"
+      "log_spam_fixer": "2025-07-11 15:31:38 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-11 15:25:45 +0000"
+      "log_spam_fixer": "2025-07-11 15:31:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-11 15:25:45 +0000"
+      "log_spam_fixer": "2025-07-11 15:31:38 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-11 15:25:45 +0000"
+      "log_spam_fixer": "2025-07-11 15:31:38 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-11 15:25:45 +0000"
+      "log_spam_fixer": "2025-07-11 15:31:38 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-11 15:25:45 +0000"
+      "log_spam_fixer": "2025-07-11 15:31:38 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-11 15:25:45 +0000"
+      "log_spam_fixer": "2025-07-11 15:31:38 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-11 15:25:45 +0000"
+      "log_spam_fixer": "2025-07-11 15:31:38 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-11 15:25:45 +0000"
+      "log_spam_fixer": "2025-07-11 15:31:38 +0000"
     },
     "done": false
+  },
+  "create:recipes/building_blocks/small_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-11 15:27:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-11 15:27:50 +0000"
+    },
+    "done": true
   },
   "valhelsia_furniture:recipes/decorations/lime_upholstered_birch_stool": {
     "criteria": {
@@ -13328,6 +13340,24 @@
   "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-07-11 15:26:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-11 15:27:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-11 15:27:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_brick_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-11 15:27:50 +0000"
     },
     "done": true
   },
@@ -13385,6 +13415,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/layered_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-11 15:27:50 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_upholstered_birch_stool": {
     "criteria": {
       "has_birch_slab": "2025-07-11 15:04:04 +0000"
@@ -13415,6 +13451,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-11 15:27:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-07-11 15:26:34 +0000"
@@ -13439,15 +13481,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_ochrum_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-11 15:27:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-07-11 15:26:34 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/ochrum_pillar_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-11 15:27:50 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:creeperling": {
     "criteria": {
       "encountered_creeperling": "2025-07-11 15:02:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_slab_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-11 15:27:50 +0000"
     },
     "done": true
   },
@@ -13499,6 +13559,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-11 15:27:50 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/purple_upholstered_birch_stool": {
     "criteria": {
       "has_birch_slab": "2025-07-11 15:04:04 +0000"
@@ -13511,9 +13577,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/small_ochrum_brick_stairs_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-11 15:27:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-11 15:27:50 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/green_upholstered_birch_stool": {
     "criteria": {
       "has_birch_slab": "2025-07-11 15:04:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-11 15:27:50 +0000"
     },
     "done": true
   },
@@ -13529,9 +13613,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-11 15:27:50 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_gray_upholstered_birch_stool": {
     "criteria": {
       "has_birch_slab": "2025-07-11 15:04:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-11 15:27:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_ochrum_bricks_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-11 15:27:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_ochrum_brick_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-11 15:27:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_ochrum_wall_from_stone_types_ochrum_stonecutting": {
+    "criteria": {
+      "has_stone_types_ochrum": "2025-07-11 15:27:50 +0000"
     },
     "done": true
   },
