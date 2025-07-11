@@ -10302,3 +10302,61 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [11Jul2025 14:56:11.334] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 78a7c604-8d16-4a3d-8ac9-4c8e6f9dd90c
 [11Jul2025 14:56:11.335] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AlejaXxD13
 [11Jul2025 14:56:14.191] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [8 above bottom-0 absolute]
+[11Jul2025 14:56:57.837] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AlejaXxD13 is 78a7c604-8d16-4a3d-8ac9-4c8e6f9dd90c
+[11Jul2025 14:57:00.619] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlejaXxD13[/127.126.91.214:33583] logged in with entity id 58150 at (-2194.0366462501597, 104.49520087700593, -1168.3671655367914)
+[11Jul2025 14:57:00.622] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[11Jul2025 14:57:00.622] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[11Jul2025 14:57:00.646] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AlejaXxD13
+[11Jul2025 14:57:00.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 joined the game
+[11Jul2025 14:57:00.695] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 78a7c604-8d16-4a3d-8ac9-4c8e6f9dd90c
+[11Jul2025 14:57:00.738] [Server thread/INFO] [Jade/]: Syncing config to AlejaXxD13 (78a7c604-8d16-4a3d-8ac9-4c8e6f9dd90c)
+[11Jul2025 14:57:00.979] [Server thread/INFO] [ping-wheel/]: Channel update: AlejaXxD13 -> default
+[11Jul2025 14:57:00.979] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AlejaXxD13 (18)
+[11Jul2025 14:57:00.979] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AlejaXxD13
+[11Jul2025 14:57:11.153] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[11Jul2025 14:57:12.398] [Server thread/INFO] [do_a_barrel_roll/]: Client of AlejaXxD13 accepted server config.
+[11Jul2025 14:57:17.598] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlejaXxD13 lost connection: Disconnected
+[11Jul2025 14:57:17.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 left the game
+[11Jul2025 14:57:17.600] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 78a7c604-8d16-4a3d-8ac9-4c8e6f9dd90c
+[11Jul2025 14:57:17.601] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AlejaXxD13
+[11Jul2025 14:57:47.726] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AlejaXxD13 is 78a7c604-8d16-4a3d-8ac9-4c8e6f9dd90c
+[11Jul2025 14:57:50.562] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlejaXxD13[/127.126.91.214:36367] logged in with entity id 58717 at (-2188.2187366477037, 103.0, -1171.4548350583955)
+[11Jul2025 14:57:50.565] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[11Jul2025 14:57:50.565] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[11Jul2025 14:57:50.586] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AlejaXxD13
+[11Jul2025 14:57:50.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 joined the game
+[11Jul2025 14:57:50.628] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 78a7c604-8d16-4a3d-8ac9-4c8e6f9dd90c
+[11Jul2025 14:57:50.666] [Server thread/INFO] [Jade/]: Syncing config to AlejaXxD13 (78a7c604-8d16-4a3d-8ac9-4c8e6f9dd90c)
+[11Jul2025 14:57:50.850] [Server thread/INFO] [ping-wheel/]: Channel update: AlejaXxD13 -> default
+[11Jul2025 14:57:50.851] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AlejaXxD13 (18)
+[11Jul2025 14:57:50.852] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AlejaXxD13
+[11Jul2025 14:57:59.655] [Server thread/INFO] [do_a_barrel_roll/]: Client of AlejaXxD13 accepted server config.
+[11Jul2025 14:58:00.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 was slain by Skeleton Thrasher
+[11Jul2025 14:58:02.758] [Server thread/INFO] [do_a_barrel_roll/]: Client of AlejaXxD13 accepted server config.
+[11Jul2025 14:59:16.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Webby80es> Coño pero puede ser falso
+[11Jul2025 15:00:47.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AlejaXxD13> a coño q no esta jsja
+[11Jul2025 15:00:51.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Webby80es> JAJAJAJAJ
+[11Jul2025 15:00:58.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AlejaXxD13> pirada mia
+[11Jul2025 15:01:13.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Webby80es> Pero eso 500 por un rolex real tiene que estar echo trizas
+[11Jul2025 15:01:13.953] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
+[11Jul2025 15:01:19.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AlejaXxD13> literalmente
+[11Jul2025 15:01:58.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 has made the advancement [One Ticket Please]
+[11Jul2025 15:02:47.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has made the advancement [What Was That!?]
+[11Jul2025 15:03:42.336] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlejaXxD13 lost connection: Disconnected
+[11Jul2025 15:03:42.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 left the game
+[11Jul2025 15:03:42.336] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 78a7c604-8d16-4a3d-8ac9-4c8e6f9dd90c
+[11Jul2025 15:03:42.337] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AlejaXxD13
+[11Jul2025 15:04:14.463] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AlejaXxD13 is 78a7c604-8d16-4a3d-8ac9-4c8e6f9dd90c
+[11Jul2025 15:04:17.410] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlejaXxD13[/127.126.91.214:32889] logged in with entity id 65692 at (-2250.300000011921, 67.0, 641.3000000119209)
+[11Jul2025 15:04:17.413] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[11Jul2025 15:04:17.413] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[11Jul2025 15:04:17.436] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AlejaXxD13
+[11Jul2025 15:04:17.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 joined the game
+[11Jul2025 15:04:17.460] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 78a7c604-8d16-4a3d-8ac9-4c8e6f9dd90c
+[11Jul2025 15:04:17.491] [Server thread/INFO] [Jade/]: Syncing config to AlejaXxD13 (78a7c604-8d16-4a3d-8ac9-4c8e6f9dd90c)
+[11Jul2025 15:04:17.709] [Server thread/INFO] [ping-wheel/]: Channel update: AlejaXxD13 -> default
+[11Jul2025 15:04:17.709] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AlejaXxD13 (18)
+[11Jul2025 15:04:17.710] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AlejaXxD13
+[11Jul2025 15:04:23.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2323.500000, 39.500000, 850.500000]
+[11Jul2025 15:04:26.135] [Server thread/INFO] [do_a_barrel_roll/]: Client of AlejaXxD13 accepted server config.
+[11Jul2025 15:04:49.519] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
