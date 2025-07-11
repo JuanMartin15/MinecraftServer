@@ -10225,3 +10225,32 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [11Jul2025 14:34:05.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AlejaXxD13> ok
 [11Jul2025 14:35:59.512] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
 [11Jul2025 14:36:05.163] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[11Jul2025 14:36:48.459] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[11Jul2025 14:36:51.006] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Vaelzan'/35426, l='ServerLevel[world]', x=-1491.66, y=72.00, z=-751.65] died, message: 'Vaelzan was slain by Zombie Bruiser'
+[11Jul2025 14:36:51.007] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Vaelzan'/35426, l='ServerLevel[world]', x=-1491.66, y=72.00, z=-751.65] died: Vaelzan was slain by Zombie Bruiser
+[11Jul2025 14:37:18.849] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[11Jul2025 14:37:53.816] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
+[11Jul2025 14:37:59.588] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
+[11Jul2025 14:38:04.416] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[11Jul2025 14:38:20.768] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[11Jul2025 14:39:39.358] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[11Jul2025 14:39:49.837] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_additions_3_pool
+[11Jul2025 14:39:49.838] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_end_1_pool
+[11Jul2025 14:39:55.601] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[11Jul2025 14:39:55.604] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[11Jul2025 14:39:55.604] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[11Jul2025 14:39:55.605] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[11Jul2025 14:39:55.606] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[11Jul2025 14:39:55.607] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[11Jul2025 14:39:55.608] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[11Jul2025 14:39:55.608] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[11Jul2025 14:39:55.609] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[11Jul2025 14:39:57.368] [Worker-Main-13/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[11Jul2025 14:39:57.369] [Worker-Main-13/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_additions_3_pool
+[11Jul2025 14:39:57.370] [Worker-Main-13/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[11Jul2025 14:39:57.370] [Worker-Main-13/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[11Jul2025 14:39:57.371] [Worker-Main-13/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_additions_3_pool
+[11Jul2025 14:39:57.372] [Worker-Main-13/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_additions_3_pool
+[11Jul2025 14:39:57.372] [Worker-Main-13/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[11Jul2025 14:39:57.372] [Worker-Main-13/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[11Jul2025 14:39:57.372] [Worker-Main-13/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
