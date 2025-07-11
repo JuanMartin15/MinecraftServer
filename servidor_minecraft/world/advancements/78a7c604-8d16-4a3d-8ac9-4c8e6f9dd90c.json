@@ -1963,7 +1963,8 @@
       "bread": "2025-07-08 15:22:32 +0000",
       "golden_apple": "2025-07-08 15:38:59 +0000",
       "rotten_flesh": "2025-07-08 22:31:03 +0000",
-      "golden_carrot": "2025-07-08 22:51:49 +0000"
+      "golden_carrot": "2025-07-08 22:51:49 +0000",
+      "carrot": "2025-07-11 14:01:27 +0000"
     },
     "done": false
   },
@@ -7289,77 +7290,41 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "chimes:recipes/decorations/glass_bells": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 00:04:42 +0000"
+      "has_bottle": "2025-07-08 23:19:06 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "dungeonnowloading:story/labyrinth/obtain_chaotic_hexahedron": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 00:04:42 +0000"
+      "obtain_chaotic_hexahedron": "2025-07-08 23:19:55 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "dungeonnowloading:recipes/combat/scepter_of_sealed_chaos": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 00:04:42 +0000"
+      "has_chaotic_hexahedron": "2025-07-08 23:19:55 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "born_in_chaos_v1:the_wind_darkening": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 00:04:42 +0000"
+      "the_wind_darkening_0": "2025-07-08 23:24:46 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 00:04:42 +0000"
+      "has_pointed_dripstone": "2025-07-08 23:24:58 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "additionaladditions:obtain_chicken_nugget": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 00:04:42 +0000"
+      "obtain": "2025-07-08 23:37:37 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-09 00:04:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-09 00:04:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-09 00:04:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-09 00:04:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-09 00:04:42 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-09 00:04:42 +0000"
-    },
-    "done": false
+    "done": true
   },
   "ecologics:recipes/ecologics/azalea_chest_boat": {
     "criteria": {
@@ -7367,21 +7332,9 @@
     },
     "done": true
   },
-  "miners_delight:recipes/cooking/cave_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-09 00:04:35 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-08 23:42:56 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/misc/skeleton_skull_candle": {
-    "criteria": {
-      "has_item": "2025-07-08 23:52:31 +0000"
     },
     "done": true
   },
@@ -7409,51 +7362,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-07-08 23:55:26 +0000"
-    },
-    "done": true
-  },
   "ecologics:recipes/ecologics/walnut_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-08 23:42:56 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
-    "criteria": {
-      "cooked_mutton_chops": "2025-07-08 23:55:24 +0000"
-    },
-    "done": true
-  },
-  "chimes:recipes/decorations/glass_bells": {
-    "criteria": {
-      "has_bottle": "2025-07-08 23:19:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2025-07-08 23:55:26 +0000"
-    },
-    "done": true
-  },
-  "netherexp:recipes/sanctum/skull_on_a_stick": {
-    "criteria": {
-      "item": "2025-07-08 23:52:31 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/boat_jar": {
     "criteria": {
       "minecraft:boats": "2025-07-08 23:42:56 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:story/labyrinth/obtain_chaotic_hexahedron": {
-    "criteria": {
-      "obtain_chaotic_hexahedron": "2025-07-08 23:19:55 +0000"
     },
     "done": true
   },
@@ -7469,18 +7386,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
-    "criteria": {
-      "cooked_mutton_chops": "2025-07-08 23:55:24 +0000"
-    },
-    "done": true
-  },
-  "additionaladditions:obtain_chicken_nugget": {
-    "criteria": {
-      "obtain": "2025-07-08 23:37:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-08 23:42:56 +0000"
@@ -7490,30 +7395,6 @@
   "undergarden:recipes/transportation/smogstem_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-08 23:42:56 +0000"
-    },
-    "done": true
-  },
-  "too_many_bows:master_bow_collector": {
-    "criteria": {
-      "demons_grasp": "2025-07-08 23:56:00 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/dripstone_block": {
-    "criteria": {
-      "has_pointed_dripstone": "2025-07-08 23:24:58 +0000"
-    },
-    "done": true
-  },
-  "lootr:100loot": {
-    "criteria": {
-      "loot_stat": "2025-07-08 23:46:25 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/mushroom_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-09 00:04:35 +0000"
     },
     "done": true
   },
@@ -7547,21 +7428,57 @@
     },
     "done": true
   },
-  "dungeonnowloading:recipes/combat/scepter_of_sealed_chaos": {
+  "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
-      "has_chaotic_hexahedron": "2025-07-08 23:19:55 +0000"
+      "has_boat": "2025-07-08 23:42:56 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:the_wind_darkening": {
+  "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
-      "the_wind_darkening_0": "2025-07-08 23:24:46 +0000"
+      "has_boat": "2025-07-08 23:42:56 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/bowl": {
+  "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
-      "has_red_mushroom": "2025-07-09 00:04:35 +0000"
+      "has_boat": "2025-07-08 23:42:56 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/transportation/wigglewood_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-07-08 23:42:56 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-07-08 23:46:25 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/skeleton_skull_candle": {
+    "criteria": {
+      "has_item": "2025-07-08 23:52:31 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/skull_on_a_stick": {
+    "criteria": {
+      "item": "2025-07-08 23:52:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-07-08 23:55:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-07-08 23:55:24 +0000"
     },
     "done": true
   },
@@ -7571,15 +7488,21 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/noodle_soup": {
+  "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
-      "has_any_ingredient": "2025-07-08 23:55:26 +0000"
+      "has_porkchop": "2025-07-08 23:55:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_chest_boat": {
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
-      "has_boat": "2025-07-08 23:42:56 +0000"
+      "has_porkchop": "2025-07-08 23:55:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-08 23:55:26 +0000"
     },
     "done": true
   },
@@ -7595,11 +7518,11 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/cherry_chest_boat": {
+  "too_many_bows:master_bow_collector": {
     "criteria": {
-      "has_boat": "2025-07-08 23:42:56 +0000"
+      "demons_grasp": "2025-07-08 23:56:00 +0000"
     },
-    "done": true
+    "done": false
   },
   "too_many_bows:root": {
     "criteria": {
@@ -7607,9 +7530,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_chest_boat": {
+  "miners_delight:recipes/cooking/cave_soup": {
     "criteria": {
-      "has_boat": "2025-07-08 23:42:56 +0000"
+      "has_any_ingredient": "2025-07-09 00:04:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-09 00:04:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-07-09 00:04:35 +0000"
     },
     "done": true
   },
@@ -7619,9 +7554,82 @@
     },
     "done": true
   },
-  "undergarden:recipes/transportation/wigglewood_chest_boat": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "has_boat": "2025-07-08 23:42:56 +0000"
+      "log_spam_fixer": "2025-07-11 14:01:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-11 14:01:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-11 14:01:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-11 14:01:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-11 14:01:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-11 14:01:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-11 14:01:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-11 14:01:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-11 14:01:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-07-11 14:02:10 +0000",
+      "log_spam_fixer": "2025-07-11 14:01:17 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-11 14:01:17 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-11 14:01:17 +0000"
+    },
+    "done": false
+  },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2025-07-11 13:58:17 +0000"
     },
     "done": true
   },
