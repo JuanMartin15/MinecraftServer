@@ -1903,6 +1903,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-08 14:35:51 +0000",
+      "minecraft:vindicator": "2025-07-11 16:15:05 +0000",
       "minecraft:spider": "2025-07-08 15:01:17 +0000",
       "minecraft:creeper": "2025-07-08 16:27:54 +0000",
       "minecraft:zombie": "2025-07-08 15:05:50 +0000",
@@ -9269,75 +9270,118 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-11 16:02:16 +0000"
+      "log_spam_fixer": "2025-07-11 16:14:30 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-07-11 16:02:16 +0000"
+      "log_spam_fixer": "2025-07-11 16:14:30 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-07-11 16:02:16 +0000"
+      "log_spam_fixer": "2025-07-11 16:14:30 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-11 16:02:16 +0000"
+      "log_spam_fixer": "2025-07-11 16:14:30 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-11 16:02:16 +0000"
+      "log_spam_fixer": "2025-07-11 16:14:30 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-11 16:02:16 +0000"
+      "log_spam_fixer": "2025-07-11 16:14:30 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-11 16:02:16 +0000"
+      "log_spam_fixer": "2025-07-11 16:14:30 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-11 16:02:16 +0000"
+      "log_spam_fixer": "2025-07-11 16:14:30 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-11 16:02:16 +0000"
+      "log_spam_fixer": "2025-07-11 16:14:30 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-07-11 16:02:16 +0000"
+      "requirement": "2025-07-11 16:15:00 +0000",
+      "log_spam_fixer": "2025-07-11 16:14:30 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-11 16:02:16 +0000"
+      "log_spam_fixer": "2025-07-11 16:14:30 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-11 16:02:16 +0000"
+      "log_spam_fixer": "2025-07-11 16:14:30 +0000"
     },
     "done": false
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2025-07-11 16:09:47 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-07-11 16:14:15 +0000"
+    },
+    "done": false
+  },
+  "justhammers:recipes/tools/diamond_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-07-11 16:15:19 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-07-11 16:15:19 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-07-11 16:15:19 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-07-11 16:15:19 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-07-11 16:14:15 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
