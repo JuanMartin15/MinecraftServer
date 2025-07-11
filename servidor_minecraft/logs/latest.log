@@ -10168,3 +10168,60 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [11Jul2025 14:19:18.742] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
 [11Jul2025 14:19:18.742] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
 [11Jul2025 14:21:23.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 has made the advancement [Best Friends Forever]
+[11Jul2025 14:30:27.758] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Webby80es is cb7eef6e-db76-493a-833a-9d516abc0597
+[11Jul2025 14:30:29.492] [Worker-Main-15/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/33503, l='ServerLevel[world]', x=-1630.50, y=-53.00, z=-679.50] as it would cause deadlock
+[11Jul2025 14:30:29.492] [Worker-Main-15/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1623, y=-54, z=-678}
+[11Jul2025 14:30:29.493] [Worker-Main-15/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1622, y=-53, z=-677}
+[11Jul2025 14:30:29.493] [Worker-Main-15/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1623, y=-54, z=-678}
+[11Jul2025 14:30:29.493] [Worker-Main-15/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1622, y=-53, z=-677}
+[11Jul2025 14:30:30.703] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Webby80es[/127.150.0.97:43185] logged in with entity id 33527 at (-2200.5888002593997, 86.0, 854.4504849711439)
+[11Jul2025 14:30:30.711] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[11Jul2025 14:30:30.711] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[11Jul2025 14:30:30.714] [pool-8-thread-1/INFO] [Vivecraft/]: Vivecraft: Checking for Updates
+[11Jul2025 14:30:30.741] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Webby80es
+[11Jul2025 14:30:30.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es joined the game
+[11Jul2025 14:30:31.025] [Server thread/INFO] [Jade/]: Syncing config to Webby80es (cb7eef6e-db76-493a-833a-9d516abc0597)
+[11Jul2025 14:30:31.026] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cb7eef6e-db76-493a-833a-9d516abc0597
+[11Jul2025 14:30:35.249] [Server thread/INFO] [ping-wheel/]: Channel update: Webby80es -> default
+[11Jul2025 14:30:35.249] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Webby80es (18)
+[11Jul2025 14:30:35.250] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Webby80es
+[11Jul2025 14:30:43.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AlejaXxD13> huuevoos
+[11Jul2025 14:30:50.206] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
+[11Jul2025 14:30:51.203] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[11Jul2025 14:30:51.204] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[11Jul2025 14:30:51.204] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[11Jul2025 14:30:51.204] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[11Jul2025 14:30:51.205] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[11Jul2025 14:30:51.205] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[11Jul2025 14:30:51.205] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[11Jul2025 14:30:51.206] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[11Jul2025 14:30:57.171] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/34314, l='ServerLevel[world]', x=-1617.50, y=-28.00, z=-735.50] as it would cause deadlock
+[11Jul2025 14:30:57.172] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/34316, l='ServerLevel[world]', x=-1625.50, y=-28.00, z=-735.50] as it would cause deadlock
+[11Jul2025 14:30:58.571] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1543, y=22, z=-743}
+[11Jul2025 14:30:58.571] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1543, y=22, z=-743}
+[11Jul2025 14:31:01.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Webby80es> Buenaaas
+[11Jul2025 14:31:27.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Webby80es> Me voy a meter a call por si quieres entrar señorita
+[11Jul2025 14:31:54.869] [Worker-Main-7/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1563, y=21, z=-761}
+[11Jul2025 14:31:54.870] [Worker-Main-7/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1563, y=21, z=-761}
+[11Jul2025 14:31:57.729] [Worker-Main-6/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[11Jul2025 14:31:57.734] [Worker-Main-6/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/35170, l='ServerLevel[world]', x=-1626.50, y=-28.00, z=-783.50] as it would cause deadlock
+[11Jul2025 14:31:58.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2317.500000, 100.500000, 849.500000]
+[11Jul2025 14:32:04.601] [Worker-Main-7/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/35527, l='ServerLevel[world]', x=-1624.50, y=-53.00, z=-823.50] as it would cause deadlock
+[11Jul2025 14:32:07.193] [Worker-Main-7/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/35659, l='ServerLevel[world]', x=-1550.50, y=22.00, z=-840.50] as it would cause deadlock
+[11Jul2025 14:32:07.194] [Worker-Main-7/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/35661, l='ServerLevel[world]', x=-1542.50, y=22.00, z=-840.50] as it would cause deadlock
+[11Jul2025 14:32:15.125] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[11Jul2025 14:32:21.646] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1678, y=-50, z=-787}
+[11Jul2025 14:32:21.646] [Worker-Main-4/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1678, y=-50, z=-787}
+[11Jul2025 14:32:21.760] [Worker-Main-6/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1675, y=20, z=-694}
+[11Jul2025 14:32:21.761] [Worker-Main-6/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1675, y=20, z=-694}
+[11Jul2025 14:32:21.865] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1676, y=-29, z=-776}
+[11Jul2025 14:32:21.865] [Worker-Main-5/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1676, y=-29, z=-776}
+[11Jul2025 14:32:23.069] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[11Jul2025 14:32:23.347] [Worker-Main-4/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/36325, l='ServerLevel[world]', x=-1547.50, y=22.00, z=-886.50] as it would cause deadlock
+[11Jul2025 14:32:41.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Spectator Mode]
+[11Jul2025 14:33:08.875] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[11Jul2025 14:33:12.954] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[11Jul2025 14:33:59.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 has made the advancement [Hot Stuff]
+[11Jul2025 14:34:05.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AlejaXxD13> ok
+[11Jul2025 14:35:59.512] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[11Jul2025 14:36:05.163] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
