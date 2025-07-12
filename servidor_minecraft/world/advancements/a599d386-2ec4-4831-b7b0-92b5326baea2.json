@@ -11622,76 +11622,381 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 15:17:20 +0000"
+      "log_spam_fixer": "2025-07-12 15:37:40 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 15:17:20 +0000"
+      "log_spam_fixer": "2025-07-12 15:37:40 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 15:17:20 +0000"
+      "log_spam_fixer": "2025-07-12 15:37:40 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 15:17:20 +0000"
+      "log_spam_fixer": "2025-07-12 15:37:40 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 15:17:20 +0000"
+      "log_spam_fixer": "2025-07-12 15:37:40 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 15:17:20 +0000"
+      "log_spam_fixer": "2025-07-12 15:37:40 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 15:17:20 +0000"
+      "log_spam_fixer": "2025-07-12 15:37:40 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 15:17:20 +0000"
+      "log_spam_fixer": "2025-07-12 15:37:40 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 15:17:20 +0000"
+      "log_spam_fixer": "2025-07-12 15:37:40 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-07-12 15:17:21 +0000",
-      "log_spam_fixer": "2025-07-12 15:17:20 +0000"
+      "log_spam_fixer": "2025-07-12 15:37:40 +0000"
     },
-    "done": true
+    "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 15:17:20 +0000"
+      "log_spam_fixer": "2025-07-12 15:37:40 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 15:17:20 +0000"
+      "log_spam_fixer": "2025-07-12 15:37:40 +0000"
     },
     "done": false
+  },
+  "valhelsia_furniture:recipes/decorations/oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-07-12 15:37:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-12 15:31:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_warped_table": {
+    "criteria": {
+      "has_red_carpet": "2025-07-12 15:37:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-07-12 15:18:53 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-07-12 15:37:50 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_upgrade_smithing_template": {
+    "criteria": {
+      "has_silver_upgrade_smithing_template": "2025-07-12 15:18:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-12 15:31:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-12 15:31:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-07-12 15:37:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_acacia_table": {
+    "criteria": {
+      "has_red_carpet": "2025-07-12 15:37:53 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_spruce_table": {
+    "criteria": {
+      "has_red_carpet": "2025-07-12 15:37:53 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-07-12 15:37:50 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/oak_boards": {
+    "criteria": {
+      "has_oak_slab": "2025-07-12 15:37:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-07-12 15:37:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-07-12 15:37:50 +0000"
+    },
+    "done": true
+  },
+  "chimes:recipes/decorations/glass_bells": {
+    "criteria": {
+      "has_bottle": "2025-07-12 15:29:47 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-12 15:31:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_dark_oak_table": {
+    "criteria": {
+      "has_red_carpet": "2025-07-12 15:37:53 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-07-12 15:37:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_crimson_table": {
+    "criteria": {
+      "has_red_carpet": "2025-07-12 15:37:53 +0000"
+    },
+    "done": true
+  },
+  "shutter:recipes/misc/oak_shutter": {
+    "criteria": {
+      "has_oak_slab": "2025-07-12 15:37:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-12 15:31:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-12 15:31:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-07-12 15:37:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_birch_table": {
+    "criteria": {
+      "has_red_carpet": "2025-07-12 15:37:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-12 15:18:53 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-07-12 15:37:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-07-12 15:37:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-12 15:31:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-12 15:31:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-07-12 15:19:17 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-12 15:31:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-12 15:31:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-07-12 15:37:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-12 15:31:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-12 15:31:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_cherry_table": {
+    "criteria": {
+      "has_red_carpet": "2025-07-12 15:37:53 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-07-12 15:37:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-12 15:31:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-12 15:31:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-07-12 15:37:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-12 15:31:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-07-12 15:37:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-07-12 15:37:50 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_mangrove_table": {
+    "criteria": {
+      "has_red_carpet": "2025-07-12 15:37:53 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-12 15:31:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_jungle_table": {
+    "criteria": {
+      "has_red_carpet": "2025-07-12 15:37:53 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_oak_table": {
+    "criteria": {
+      "has_red_carpet": "2025-07-12 15:37:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-07-12 15:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-12 15:31:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-07-12 15:37:50 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

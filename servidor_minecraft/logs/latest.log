@@ -10244,3 +10244,106 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [12Jul2025 15:21:47.592] [Worker-Main-189/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
 [12Jul2025 15:21:51.709] [Worker-Main-199/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/60022, l='ServerLevel[world]', x=-1696.50, y=22.00, z=3230.50] as it would cause deadlock
 [12Jul2025 15:21:51.710] [Worker-Main-199/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/60024, l='ServerLevel[world]', x=-1704.50, y=22.00, z=3230.50] as it would cause deadlock
+[12Jul2025 15:23:13.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Elpompetas> duerme ahora que las noches se hacen rapidas
+[12Jul2025 15:23:54.983] [Worker-Main-188/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1797, y=21, z=3204}
+[12Jul2025 15:23:54.983] [Worker-Main-188/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1799, y=21, z=3203}
+[12Jul2025 15:23:54.983] [Worker-Main-188/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1797, y=21, z=3204}
+[12Jul2025 15:23:54.983] [Worker-Main-188/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1799, y=21, z=3203}
+[12Jul2025 15:23:55.714] [Worker-Main-192/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1650, y=-17, z=3200}
+[12Jul2025 15:23:55.715] [Worker-Main-192/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1650, y=-17, z=3200}
+[12Jul2025 15:23:55.804] [Worker-Main-192/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/62052, l='ServerLevel[world]', x=-1647.50, y=-16.00, z=3200.50] as it would cause deadlock
+[12Jul2025 15:24:39.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Elpompetas> zzz
+[12Jul2025 15:26:08.071] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Swordragons is 39d9e18d-44a2-486f-b4f3-b40845c02da6
+[12Jul2025 15:26:10.883] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Swordragons[/127.130.250.62:45253] logged in with entity id 63994 at (-2546.9804949052427, 94.0, 919.5146311144542)
+[12Jul2025 15:26:10.886] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[12Jul2025 15:26:10.886] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[12Jul2025 15:26:10.907] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Swordragons
+[12Jul2025 15:26:10.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Swordragons joined the game
+[12Jul2025 15:26:10.950] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 39d9e18d-44a2-486f-b4f3-b40845c02da6
+[12Jul2025 15:26:10.996] [Server thread/INFO] [Jade/]: Syncing config to Swordragons (39d9e18d-44a2-486f-b4f3-b40845c02da6)
+[12Jul2025 15:26:14.220] [Server thread/INFO] [ping-wheel/]: Channel update: Swordragons -> default
+[12Jul2025 15:26:14.221] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Swordragons (18)
+[12Jul2025 15:26:14.221] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Swordragons
+[12Jul2025 15:26:24.714] [Server thread/INFO] [do_a_barrel_roll/]: Client of Swordragons accepted server config.
+[12Jul2025 15:26:25.962] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[12Jul2025 15:26:40.993] [Worker-Main-190/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:lumberjack_additions_3_pool
+[12Jul2025 15:26:40.994] [Worker-Main-190/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:lumberjack_additions_3_pool
+[12Jul2025 15:26:40.994] [Worker-Main-190/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:lumberjack_additions_3_pool
+[12Jul2025 15:26:40.995] [Worker-Main-190/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:lumberjack_end_1_pool
+[12Jul2025 15:26:40.995] [Worker-Main-190/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:lumberjack_end_1_pool
+[12Jul2025 15:26:40.995] [Worker-Main-190/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:lumberjack_end_1_pool
+[12Jul2025 15:26:46.796] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5839ms or 116 ticks behind
+[12Jul2025 15:28:07.884] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[12Jul2025 15:28:08.194] [Worker-Main-187/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-1657608553,-181188645,-1970306320,-21935466],type:"minecraft:entity",y_offset:0.36f}}]
+[12Jul2025 15:28:08.195] [Worker-Main-187/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-492208151,2130201996,-1638321847,-236952269],type:"minecraft:entity",y_offset:0.36f}}]
+[12Jul2025 15:28:08.196] [Worker-Main-187/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-1534938430,-1634907265,-1933425779,1714146874],type:"minecraft:entity",y_offset:0.36f}}]
+[12Jul2025 15:28:32.565] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[12Jul2025 15:29:08.858] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[12Jul2025 15:29:28.320] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2063ms or 41 ticks behind
+[12Jul2025 15:31:43.960] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/70979, l='ServerLevel[world]', x=-1866.50, y=89.00, z=3970.50] died, message: 'Villager was killed'
+[12Jul2025 15:35:26.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[12Jul2025 15:36:32.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AngelML> zzz
+[12Jul2025 15:36:35.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Elpompetas> zzz
+[12Jul2025 15:37:40.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Swordragons burned to death
+[12Jul2025 15:37:58.807] [Server thread/INFO] [do_a_barrel_roll/]: Client of Swordragons accepted server config.
+[12Jul2025 15:38:58.212] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Khytwel'/68799, l='ServerLevel[world]', x=-1895.51, y=72.00, z=3940.51] died, message: 'Khytwel was slain by Spider'
+[12Jul2025 15:38:58.216] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Khytwel'/68799, l='ServerLevel[world]', x=-1895.51, y=72.00, z=3940.51] died: Khytwel was slain by Spider
+[12Jul2025 15:39:01.764] [Worker-Main-200/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/78030, l='ServerLevel[world]', x=-1884.50, y=22.00, z=4210.50] as it would cause deadlock
+[12Jul2025 15:39:02.061] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[12Jul2025 15:39:09.351] [Worker-Main-199/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/78200, l='ServerLevel[world]', x=-1878.50, y=22.00, z=4231.50] as it would cause deadlock
+[12Jul2025 15:39:09.409] [Worker-Main-199/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1904, y=21, z=4239}
+[12Jul2025 15:39:09.409] [Worker-Main-199/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1904, y=22, z=4239}
+[12Jul2025 15:39:09.409] [Worker-Main-199/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1904, y=21, z=4239}
+[12Jul2025 15:39:09.409] [Worker-Main-199/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1904, y=22, z=4239}
+[12Jul2025 15:39:09.424] [Worker-Main-196/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/78207, l='ServerLevel[world]', x=-1908.50, y=22.00, z=4227.50] as it would cause deadlock
+[12Jul2025 15:39:09.425] [Worker-Main-196/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/78209, l='ServerLevel[world]', x=-1908.50, y=22.00, z=4235.50] as it would cause deadlock
+[12Jul2025 15:39:09.425] [Worker-Main-196/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1905, y=21, z=4238}
+[12Jul2025 15:39:09.426] [Worker-Main-196/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1905, y=21, z=4238}
+[12Jul2025 15:39:09.442] [Worker-Main-196/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/78211, l='ServerLevel[world]', x=-1933.50, y=22.00, z=4235.50] as it would cause deadlock
+[12Jul2025 15:39:09.442] [Worker-Main-196/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/78213, l='ServerLevel[world]', x=-1933.50, y=22.00, z=4227.50] as it would cause deadlock
+[12Jul2025 15:39:16.431] [Worker-Main-191/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1806, y=-53, z=4267}
+[12Jul2025 15:39:16.431] [Worker-Main-191/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1806, y=-53, z=4267}
+[12Jul2025 15:39:19.307] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2249ms or 44 ticks behind
+[12Jul2025 15:39:20.626] [Worker-Main-191/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/78506, l='ServerLevel[world]', x=-1879.50, y=-53.00, z=4278.50] as it would cause deadlock
+[12Jul2025 15:39:33.318] [Worker-Main-200/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1798, y=-29, z=4324}
+[12Jul2025 15:39:33.319] [Worker-Main-200/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1798, y=-29, z=4324}
+[12Jul2025 15:39:33.494] [Worker-Main-200/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[12Jul2025 15:39:33.615] [Worker-Main-196/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1788, y=-17, z=4325}
+[12Jul2025 15:39:33.616] [Worker-Main-196/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1788, y=-17, z=4326}
+[12Jul2025 15:39:33.616] [Worker-Main-196/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1788, y=-17, z=4325}
+[12Jul2025 15:39:33.616] [Worker-Main-196/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1788, y=-17, z=4326}
+[12Jul2025 15:39:34.048] [Worker-Main-199/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/78828, l='ServerLevel[world]', x=-1913.50, y=-41.00, z=4328.50] as it would cause deadlock
+[12Jul2025 15:39:34.127] [Worker-Main-191/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1925, y=-53, z=4328}
+[12Jul2025 15:39:34.127] [Worker-Main-191/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1925, y=-53, z=4328}
+[12Jul2025 15:39:36.788] [Worker-Main-195/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1868, y=-53, z=4336}
+[12Jul2025 15:39:36.788] [Worker-Main-195/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1868, y=-53, z=4336}
+[12Jul2025 15:39:39.186] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4928ms or 98 ticks behind
+[12Jul2025 15:39:46.864] [Worker-Main-190/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1798, y=-29, z=4371}
+[12Jul2025 15:39:46.864] [Worker-Main-190/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1799, y=-28, z=4371}
+[12Jul2025 15:39:46.864] [Worker-Main-190/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1798, y=-29, z=4371}
+[12Jul2025 15:39:46.864] [Worker-Main-190/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1799, y=-28, z=4371}
+[12Jul2025 15:39:55.779] [Worker-Main-200/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1846, y=-29, z=4402}
+[12Jul2025 15:39:55.779] [Worker-Main-200/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1846, y=-29, z=4402}
+[12Jul2025 15:40:00.314] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6156ms or 123 ticks behind
+[12Jul2025 15:40:11.088] [Worker-Main-189/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[12Jul2025 15:40:11.088] [Worker-Main-189/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[12Jul2025 15:40:11.088] [Worker-Main-189/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[12Jul2025 15:40:11.088] [Worker-Main-189/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[12Jul2025 15:40:22.102] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6794ms or 135 ticks behind
+[12Jul2025 15:40:35.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas has made the advancement [The Wind Darkening]
+[12Jul2025 15:40:41.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4760ms or 95 ticks behind
+[12Jul2025 15:40:46.699] [Worker-Main-194/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_additions_3_pool
+[12Jul2025 15:40:46.700] [Worker-Main-194/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_end_1_pool
+[12Jul2025 15:40:47.630] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[12Jul2025 15:40:56.445] [Worker-Main-187/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:lumberjack_additions_3_pool
+[12Jul2025 15:40:56.446] [Worker-Main-187/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:lumberjack_additions_3_pool
+[12Jul2025 15:40:56.447] [Worker-Main-187/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:lumberjack_additions_3_pool
+[12Jul2025 15:40:56.447] [Worker-Main-187/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:lumberjack_end_1_pool
+[12Jul2025 15:40:56.448] [Worker-Main-187/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:lumberjack_end_1_pool
+[12Jul2025 15:41:00.813] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4005ms or 80 ticks behind
+[12Jul2025 15:41:18.674] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2867ms or 57 ticks behind
+[12Jul2025 15:41:23.444] [Worker-Main-198/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:lumberjack_additions_3_pool
+[12Jul2025 15:41:23.444] [Worker-Main-198/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:lumberjack_additions_3_pool
+[12Jul2025 15:41:23.444] [Worker-Main-198/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:lumberjack_additions_3_pool
+[12Jul2025 15:41:23.444] [Worker-Main-198/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:lumberjack_end_1_pool
+[12Jul2025 15:41:30.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [Hostile Neighbors]
