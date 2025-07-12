@@ -10550,3 +10550,8 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [12Jul2025 16:21:48.242] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2187, y=86, z=854}
 [12Jul2025 16:21:50.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Swordragons to Webby80es]
 [12Jul2025 16:26:18.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to Swordragons]
+[12Jul2025 16:35:23.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas has made the advancement [Sneak 100]
+[12Jul2025 16:35:34.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Swordragons has made the advancement [Sneak 100]
+[12Jul2025 16:36:27.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Applied effect Invisibility to Webby80es]
+[12Jul2025 16:43:07.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Applied effect Night Vision to Webby80es]
+[12Jul2025 16:43:54.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to Swordragons]
