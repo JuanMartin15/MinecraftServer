@@ -10630,3 +10630,33 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [12Jul2025 19:23:42.238] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Webby80es (18)
 [12Jul2025 19:23:42.238] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Webby80es
 [12Jul2025 19:24:00.448] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
+[12Jul2025 19:28:50.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Swordragons has made the advancement [Gold n' Roses]
+[12Jul2025 19:31:59.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has made the advancement [Gold n' Roses]
+[12Jul2025 19:34:29.413] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[12Jul2025 19:34:29.448] [Server thread/INFO] [VivecraftServer/]: Vivecraft: shutting down vivecraft scheduler
+[12Jul2025 19:34:29.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[12Jul2025 19:34:29.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[12Jul2025 19:34:29.544] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Swordragons lost connection: Server closed
+[12Jul2025 19:34:29.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Swordragons left the game
+[12Jul2025 19:34:29.545] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 39d9e18d-44a2-486f-b4f3-b40845c02da6
+[12Jul2025 19:34:29.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[12Jul2025 19:34:29.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12Jul2025 19:34:30.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12Jul2025 19:34:30.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/witherstormmod:bowels
+[12Jul2025 19:34:30.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12Jul2025 19:34:30.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[12Jul2025 19:34:30.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/voidscape:void
+[12Jul2025 19:34:30.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
+[12Jul2025 19:34:30.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12Jul2025 19:34:30.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12Jul2025 19:34:30.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
+[12Jul2025 19:34:30.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12Jul2025 19:34:30.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[12Jul2025 19:34:30.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (void): All chunks are saved
+[12Jul2025 19:34:30.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[12Jul2025 19:34:30.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12Jul2025 19:34:31.117] [Server thread/INFO] [Framework/]: Unloading server configs...
+[12Jul2025 19:34:31.118] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[12Jul2025 19:34:31.121] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[12Jul2025 19:34:31.124] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[12Jul2025 19:34:31.125] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
