@@ -10339,3 +10339,53 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [12Jul2025 23:21:15.204] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5886ms or 117 ticks behind
 [12Jul2025 23:21:35.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5243ms or 104 ticks behind
 [12Jul2025 23:21:53.525] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3158ms or 63 ticks behind
+[12Jul2025 23:22:11.686] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3168ms or 63 ticks behind
+[12Jul2025 23:22:25.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Swordragons has completed the challenge [Centennial]
+[12Jul2025 23:22:40.194] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[12Jul2025 23:22:40.194] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[12Jul2025 23:22:40.194] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[12Jul2025 23:22:40.194] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[12Jul2025 23:23:57.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to Elpompetas]
+[12Jul2025 23:25:06.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported AlejaXxD13 to Webby80es]
+[12Jul2025 23:25:06.627] [Server thread/INFO] [do_a_barrel_roll/]: Client of AlejaXxD13 accepted server config.
+[12Jul2025 23:26:45.670] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[12Jul2025 23:27:04.616] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3949ms or 78 ticks behind
+[12Jul2025 23:27:29.033] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[12Jul2025 23:27:47.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[12Jul2025 23:28:04.284] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[12Jul2025 23:28:40.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 has made the advancement [Nether Unlocked!]
+[12Jul2025 23:28:40.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 has made the advancement [What Now Is]
+[12Jul2025 23:29:31.782] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[12Jul2025 23:29:32.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 has made the advancement [Nether Depths Upgrade]
+[12Jul2025 23:29:32.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 has made the advancement [We Need to Go Deeper]
+[12Jul2025 23:29:32.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 has made the advancement [Incendium]
+[12Jul2025 23:29:43.832] [Server thread/INFO] [do_a_barrel_roll/]: Client of AlejaXxD13 accepted server config.
+[12Jul2025 23:29:43.889] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13221ms or 264 ticks behind
+[12Jul2025 23:30:02.781] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3914ms or 78 ticks behind
+[12Jul2025 23:30:11.630] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elpompetas lost connection: Kicked by an operator
+[12Jul2025 23:30:11.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas left the game
+[12Jul2025 23:30:11.631] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f1560095-bd08-4100-b4d8-75c6e03f0dc3
+[12Jul2025 23:30:11.631] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Elpompetas
+[12Jul2025 23:30:11.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Kicked Elpompetas: Kicked by an operator]
+[12Jul2025 23:30:11.697] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Jul2025 23:30:15.238] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Elpompetas is f1560095-bd08-4100-b4d8-75c6e03f0dc3
+[12Jul2025 23:30:18.602] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elpompetas[/127.47.61.107:46905] logged in with entity id 107280 at (-2314.9638914263855, 95.0, 845.669494693347)
+[12Jul2025 23:30:18.604] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[12Jul2025 23:30:18.605] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[12Jul2025 23:30:18.625] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Elpompetas
+[12Jul2025 23:30:18.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas joined the game
+[12Jul2025 23:30:18.708] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f1560095-bd08-4100-b4d8-75c6e03f0dc3
+[12Jul2025 23:30:18.748] [Server thread/INFO] [Jade/]: Syncing config to Elpompetas (f1560095-bd08-4100-b4d8-75c6e03f0dc3)
+[12Jul2025 23:30:20.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2323.500000, 39.500000, 850.500000]
+[12Jul2025 23:30:21.100] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3333ms or 66 ticks behind
+[12Jul2025 23:30:21.164] [Server thread/INFO] [ping-wheel/]: Channel update: Elpompetas -> default
+[12Jul2025 23:30:21.165] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Elpompetas (18)
+[12Jul2025 23:30:21.165] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Elpompetas
+[12Jul2025 23:30:25.456] [Server thread/INFO] [do_a_barrel_roll/]: Client of Elpompetas accepted server config.
+[12Jul2025 23:30:36.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 has made the advancement [Nightmare Fuel]
+[12Jul2025 23:30:41.487] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5420ms or 108 ticks behind
+[12Jul2025 23:31:00.655] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4188ms or 83 ticks behind
+[12Jul2025 23:31:19.600] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3983ms or 79 ticks behind
+[12Jul2025 23:31:38.374] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3806ms or 76 ticks behind
+[12Jul2025 23:31:57.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3768ms or 75 ticks behind
+[12Jul2025 23:32:16.999] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4881ms or 97 ticks behind
