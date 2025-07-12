@@ -6299,73 +6299,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 18:42:38 +0000"
+      "log_spam_fixer": "2025-07-12 18:52:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 18:42:38 +0000"
+      "log_spam_fixer": "2025-07-12 18:52:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 18:42:38 +0000"
+      "log_spam_fixer": "2025-07-12 18:52:38 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 18:42:38 +0000"
+      "log_spam_fixer": "2025-07-12 18:52:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 18:42:38 +0000"
+      "log_spam_fixer": "2025-07-12 18:52:38 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 18:42:38 +0000"
+      "log_spam_fixer": "2025-07-12 18:52:38 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 18:42:38 +0000"
+      "log_spam_fixer": "2025-07-12 18:52:38 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 18:42:38 +0000"
+      "log_spam_fixer": "2025-07-12 18:52:38 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 18:42:38 +0000"
+      "log_spam_fixer": "2025-07-12 18:52:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 18:42:38 +0000"
+      "log_spam_fixer": "2025-07-12 18:52:38 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 18:42:38 +0000"
+      "log_spam_fixer": "2025-07-12 18:52:38 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 18:42:38 +0000"
+      "log_spam_fixer": "2025-07-12 18:52:38 +0000"
     },
     "done": false
   },
@@ -6558,6 +6558,12 @@
   "create:recipes/misc/crafting/kinetics/weighted_ejector": {
     "criteria": {
       "has_item": "2025-07-12 18:16:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-07-12 18:50:08 +0000"
     },
     "done": true
   },
@@ -7059,6 +7065,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-07-12 18:50:08 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/jungle_drawers": {
     "criteria": {
       "has_chest": "2025-07-12 18:04:22 +0000"
@@ -7530,6 +7542,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-07-12 18:16:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-07-12 18:50:08 +0000"
     },
     "done": true
   },
