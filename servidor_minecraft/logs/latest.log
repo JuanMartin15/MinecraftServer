@@ -10125,3 +10125,21 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [12Jul2025 12:53:24.511] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatCommandPacket
 [12Jul2025 12:53:24.514] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatPacket
 [12Jul2025 12:53:24.515] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatSessionUpdatePacket
+[12Jul2025 14:06:35.793] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Webby80es is cb7eef6e-db76-493a-833a-9d516abc0597
+[12Jul2025 14:06:38.620] [Netty Epoll Server IO #0/WARN] [mixin/]: @ModifyConstant conflict. Skipping packetfixer.v1_19_4.forge.mixins.json:v1_19_4_forge.CompressionEncoderMixin->@ModifyConstant::packetfixer$newSize(I)I with priority 1000, already redirected by connectivity.mixins.json:CompressionEncoderMixin->@ModifyConstant::modifyLimit(I)I with priority 1000
+[12Jul2025 14:06:38.621] [Netty Epoll Server IO #0/WARN] [mixin/]: @ModifyConstant conflict. Skipping packetfixer.v1_19_4.forge.mixins.json:v1_19_4_forge.CompressionEncoderMixin->@ModifyConstant::packetfixer$newSize(I)I with priority 1000, already redirected by connectivity.mixins.json:CompressionEncoderMixin->@ModifyConstant::modifyLimit(I)I with priority 1000
+[12Jul2025 14:06:39.034] [pool-8-thread-1/INFO] [Vivecraft/]: Vivecraft: Checking for Updates
+[12Jul2025 14:06:39.060] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Webby80es[/127.150.0.97:35047] logged in with entity id 728 at (-2322.5, 25.5625, 816.5)
+[12Jul2025 14:06:39.155] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[12Jul2025 14:06:39.156] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[12Jul2025 14:06:40.677] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Webby80es
+[12Jul2025 14:06:40.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es joined the game
+[12Jul2025 14:06:41.345] [Server thread/INFO] [Jade/]: Syncing config to Webby80es (cb7eef6e-db76-493a-833a-9d516abc0597)
+[12Jul2025 14:06:41.369] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cb7eef6e-db76-493a-833a-9d516abc0597
+[12Jul2025 14:06:41.511] [Server thread/INFO] [ping-wheel/]: Channel update: Webby80es -> default
+[12Jul2025 14:06:41.512] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Webby80es (18)
+[12Jul2025 14:06:41.514] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Webby80es
+[12Jul2025 14:06:41.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2701ms or 54 ticks behind
+[12Jul2025 14:06:58.677] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
+[12Jul2025 14:07:00.571] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4014ms or 80 ticks behind
+[12Jul2025 14:07:48.118] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Elpompetas'/200, l='ServerLevel[world]', x=-2364.09, y=13.00, z=833.50] died: Elpompetas hit the ground too hard
