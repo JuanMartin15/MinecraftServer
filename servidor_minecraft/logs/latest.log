@@ -10176,3 +10176,28 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [12Jul2025 22:26:43.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Swordragons left the game
 [12Jul2025 22:26:43.345] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 39d9e18d-44a2-486f-b4f3-b40845c02da6
 [12Jul2025 22:26:43.345] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Swordragons
+[12Jul2025 22:51:28.313] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AlejaXxD13 is 78a7c604-8d16-4a3d-8ac9-4c8e6f9dd90c
+[12Jul2025 22:51:31.278] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlejaXxD13[/127.126.91.214:56501] logged in with entity id 64238 at (-2119.6982421875, 49.85000001788139, 1054.3017578125)
+[12Jul2025 22:51:31.281] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[12Jul2025 22:51:31.282] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[12Jul2025 22:51:31.308] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AlejaXxD13
+[12Jul2025 22:51:31.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 joined the game
+[12Jul2025 22:51:31.379] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Horse['Horse'/64239, l='ServerLevel[world]', x=-2119.70, y=49.00, z=1054.30] as it would cause deadlock
+[12Jul2025 22:51:31.484] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 78a7c604-8d16-4a3d-8ac9-4c8e6f9dd90c
+[12Jul2025 22:51:31.534] [Server thread/INFO] [Jade/]: Syncing config to AlejaXxD13 (78a7c604-8d16-4a3d-8ac9-4c8e6f9dd90c)
+[12Jul2025 22:51:35.194] [Server thread/INFO] [ping-wheel/]: Channel update: AlejaXxD13 -> default
+[12Jul2025 22:51:35.242] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AlejaXxD13 (18)
+[12Jul2025 22:51:35.243] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AlejaXxD13
+[12Jul2025 22:51:49.060] [Server thread/INFO] [do_a_barrel_roll/]: Client of AlejaXxD13 accepted server config.
+[12Jul2025 22:56:28.539] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Elpompetas is f1560095-bd08-4100-b4d8-75c6e03f0dc3
+[12Jul2025 22:56:31.384] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elpompetas[/127.47.61.107:54309] logged in with entity id 69208 at (-3147.699999988079, -44.0, 1102.4696401058634)
+[12Jul2025 22:56:31.387] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[12Jul2025 22:56:31.387] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[12Jul2025 22:56:31.410] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Elpompetas
+[12Jul2025 22:56:31.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas joined the game
+[12Jul2025 22:56:31.459] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f1560095-bd08-4100-b4d8-75c6e03f0dc3
+[12Jul2025 22:56:31.507] [Server thread/INFO] [Jade/]: Syncing config to Elpompetas (f1560095-bd08-4100-b4d8-75c6e03f0dc3)
+[12Jul2025 22:56:35.481] [Server thread/INFO] [ping-wheel/]: Channel update: Elpompetas -> default
+[12Jul2025 22:56:35.483] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Elpompetas (18)
+[12Jul2025 22:56:35.483] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Elpompetas
+[12Jul2025 22:56:46.112] [Server thread/INFO] [do_a_barrel_roll/]: Client of Elpompetas accepted server config.
