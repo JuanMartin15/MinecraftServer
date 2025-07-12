@@ -10509,3 +10509,43 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [12Jul2025 16:11:42.200] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2292ms or 45 ticks behind
 [12Jul2025 16:11:59.166] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
 [12Jul2025 16:12:12.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to Swordragons]
+[12Jul2025 16:13:11.712] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[12Jul2025 16:13:33.829] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[12Jul2025 16:16:09.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Swordragons has reached the goal [Exorcism]
+[12Jul2025 16:16:11.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es was slain by Skeleton Thrasher
+[12Jul2025 16:16:13.209] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
+[12Jul2025 16:16:14.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to Swordragons]
+[12Jul2025 16:16:23.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has reached the goal [Exorcism]
+[12Jul2025 16:16:50.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[12Jul2025 16:16:57.961] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
+[12Jul2025 16:17:07.675] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2517ms or 50 ticks behind
+[12Jul2025 16:17:09.163] [Server thread/INFO] [do_a_barrel_roll/]: Client of Elpompetas accepted server config.
+[12Jul2025 16:17:10.392] [Server thread/INFO] [do_a_barrel_roll/]: Client of Swordragons accepted server config.
+[12Jul2025 16:17:25.285] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2628ms or 52 ticks behind
+[12Jul2025 16:17:35.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AngelML> eeeeee
+[12Jul2025 16:17:39.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AngelML> vaya time set day
+[12Jul2025 16:17:42.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Webby80es> Mala mia
+[12Jul2025 16:17:44.758] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[12Jul2025 16:17:46.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Webby80es> Fue sinquerer
+[12Jul2025 16:18:00.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Webby80es> Sin querer*
+[12Jul2025 16:18:05.169] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[12Jul2025 16:18:22.363] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[12Jul2025 16:18:41.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[12Jul2025 16:20:05.971] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[12Jul2025 16:20:16.243] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[12Jul2025 16:20:20.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Swordragons was slain by Skeleton Thrasher
+[12Jul2025 16:20:23.615] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2658ms or 53 ticks behind
+[12Jul2025 16:20:25.106] [Server thread/INFO] [do_a_barrel_roll/]: Client of Swordragons accepted server config.
+[12Jul2025 16:20:28.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es was slain by Skeleton Thrasher
+[12Jul2025 16:20:31.462] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AngelML lost connection: Disconnected
+[12Jul2025 16:20:31.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML left the game
+[12Jul2025 16:20:31.463] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for a599d386-2ec4-4831-b7b0-92b5326baea2
+[12Jul2025 16:20:31.464] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AngelML
+[12Jul2025 16:20:36.842] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
+[12Jul2025 16:20:39.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -3015.500000, 126.500000, 1118.500000]
+[12Jul2025 16:20:49.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Swordragons to Webby80es]
+[12Jul2025 16:21:37.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Swordragons withered away whilst fighting Webby80es
+[12Jul2025 16:21:40.947] [Server thread/INFO] [do_a_barrel_roll/]: Client of Swordragons accepted server config.
+[12Jul2025 16:21:48.041] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2187, y=86, z=855}
+[12Jul2025 16:21:48.242] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2187, y=86, z=854}
+[12Jul2025 16:21:50.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Swordragons to Webby80es]
