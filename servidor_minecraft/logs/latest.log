@@ -10600,3 +10600,10 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [12Jul2025 17:25:39.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Swordragons to Webby80es]
 [12Jul2025 17:26:36.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Swordragons to Webby80es]
 [12Jul2025 17:31:14.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Swordragons has made the advancement [The Wind Darkening]
+[12Jul2025 17:42:24.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Swordragons was shot by Supreme Bonescaller
+[12Jul2025 17:42:33.787] [Server thread/INFO] [do_a_barrel_roll/]: Client of Swordragons accepted server config.
+[12Jul2025 17:42:51.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to Swordragons]
+[12Jul2025 17:44:16.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has reached the goal [Senior Summoner]
+[12Jul2025 17:44:37.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Swordragons was slain by Dread Hound
+[12Jul2025 17:44:41.643] [Server thread/INFO] [do_a_barrel_roll/]: Client of Swordragons accepted server config.
+[12Jul2025 17:44:43.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Swordragons to Webby80es]
