@@ -14394,73 +14394,73 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 18:22:38 +0000"
+      "log_spam_fixer": "2025-07-12 18:32:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 18:22:38 +0000"
+      "log_spam_fixer": "2025-07-12 18:32:38 +0000"
     },
     "done": false
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 18:22:38 +0000"
+      "log_spam_fixer": "2025-07-12 18:32:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 18:22:38 +0000"
+      "log_spam_fixer": "2025-07-12 18:32:38 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 18:22:38 +0000"
+      "log_spam_fixer": "2025-07-12 18:32:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 18:22:38 +0000"
+      "log_spam_fixer": "2025-07-12 18:32:38 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 18:22:38 +0000"
+      "log_spam_fixer": "2025-07-12 18:32:38 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 18:22:38 +0000"
+      "log_spam_fixer": "2025-07-12 18:32:38 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 18:22:38 +0000"
+      "log_spam_fixer": "2025-07-12 18:32:38 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 18:22:38 +0000"
+      "log_spam_fixer": "2025-07-12 18:32:38 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 18:22:38 +0000"
+      "log_spam_fixer": "2025-07-12 18:32:38 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 18:22:38 +0000"
+      "log_spam_fixer": "2025-07-12 18:32:38 +0000"
     },
     "done": false
   },
@@ -14731,6 +14731,12 @@
   "create:recipes/building_blocks/limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2025-07-12 16:28:00 +0000"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2025-07-12 18:24:58 +0000"
     },
     "done": true
   },
@@ -15505,6 +15511,12 @@
   "create:recipes/building_blocks/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2025-07-12 16:12:17 +0000"
+    },
+    "done": true
+  },
+  "copycats:recipes/crafting/copycat_large_cogwheel": {
+    "criteria": {
+      "has_item": "2025-07-12 18:24:33 +0000"
     },
     "done": true
   },
