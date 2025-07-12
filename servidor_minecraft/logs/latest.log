@@ -10464,3 +10464,30 @@ Reason: Banned by an operator.
 [12Jul2025 23:41:53.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 has made the advancement [War Pigs]
 [12Jul2025 23:42:10.301] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2683ms or 53 ticks behind
 [12Jul2025 23:42:35.073] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[12Jul2025 23:42:53.909] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3841ms or 76 ticks behind
+[12Jul2025 23:43:11.044] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2176ms or 43 ticks behind
+[12Jul2025 23:43:28.908] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2890ms or 57 ticks behind
+[12Jul2025 23:43:32.019] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-690, y=31, z=-140} BlockPos{x=-689, y=30, z=-139}
+[12Jul2025 23:43:46.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2907ms or 58 ticks behind
+[12Jul2025 23:44:03.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2093ms or 41 ticks behind
+[12Jul2025 23:44:21.136] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2319ms or 46 ticks behind
+[12Jul2025 23:44:38.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2290ms or 45 ticks behind
+[12Jul2025 23:44:56.122] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2754ms or 55 ticks behind
+[12Jul2025 23:45:13.682] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2565ms or 51 ticks behind
+[12Jul2025 23:45:30.856] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2189ms or 43 ticks behind
+[12Jul2025 23:45:47.932] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2115ms or 42 ticks behind
+[12Jul2025 23:46:01.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 has made the advancement [Who is Cutting Onions?]
+[12Jul2025 23:46:06.720] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3803ms or 76 ticks behind
+[12Jul2025 23:46:11.355] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Swordragons lost connection: Disconnected
+[12Jul2025 23:46:11.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Swordragons left the game
+[12Jul2025 23:46:11.356] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 39d9e18d-44a2-486f-b4f3-b40845c02da6
+[12Jul2025 23:46:11.357] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Swordragons
+[12Jul2025 23:47:16.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Spectator Mode]
+[12Jul2025 23:48:13.510] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Webby80es lost connection: Disconnected
+[12Jul2025 23:48:13.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es left the game
+[12Jul2025 23:48:13.511] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cb7eef6e-db76-493a-833a-9d516abc0597
+[12Jul2025 23:48:13.511] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Webby80es
+[12Jul2025 23:48:19.061] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlejaXxD13 lost connection: Disconnected
+[12Jul2025 23:48:19.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 left the game
+[12Jul2025 23:48:19.062] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 78a7c604-8d16-4a3d-8ac9-4c8e6f9dd90c
+[12Jul2025 23:48:19.062] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AlejaXxD13
