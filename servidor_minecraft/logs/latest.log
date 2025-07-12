@@ -10145,3 +10145,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [12Jul2025 14:07:48.118] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Elpompetas'/200, l='ServerLevel[world]', x=-2364.09, y=13.00, z=833.50] died: Elpompetas hit the ground too hard
 [12Jul2025 14:14:14.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Spectator Mode]
 [12Jul2025 14:14:34.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Spectator Mode]
+[12Jul2025 14:21:38.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2323.500000, 39.500000, 850.500000]
+[12Jul2025 14:28:05.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Successfully filled 56 block(s)]
