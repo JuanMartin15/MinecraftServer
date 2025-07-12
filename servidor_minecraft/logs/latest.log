@@ -10209,3 +10209,38 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [12Jul2025 15:11:32.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3838ms or 76 ticks behind
 [12Jul2025 15:11:38.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AngelML> duerme franchis
 [12Jul2025 15:11:49.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Elpompetas> espera estoy a 300m
+[12Jul2025 15:12:41.258] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[12Jul2025 15:13:04.319] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[12Jul2025 15:13:07.582] [Worker-Main-194/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1748, y=75, z=2344}
+[12Jul2025 15:13:07.582] [Worker-Main-194/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1751, y=75, z=2342}
+[12Jul2025 15:13:07.887] [Worker-Main-192/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1753, y=74, z=2359}
+[12Jul2025 15:13:07.887] [Worker-Main-192/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1757, y=72, z=2358}
+[12Jul2025 15:13:14.484] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[12Jul2025 15:13:33.474] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2078, y=5, z=2595}
+[12Jul2025 15:13:33.474] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2078, y=5, z=2597}
+[12Jul2025 15:13:53.232] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[12Jul2025 15:15:01.788] [Worker-Main-191/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[12Jul2025 15:15:01.788] [Worker-Main-191/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[12Jul2025 15:15:01.788] [Worker-Main-191/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[12Jul2025 15:15:01.789] [Worker-Main-191/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[12Jul2025 15:15:01.789] [Worker-Main-191/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[12Jul2025 15:15:01.789] [Worker-Main-191/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[12Jul2025 15:15:01.789] [Worker-Main-191/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[12Jul2025 15:15:01.790] [Worker-Main-191/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[12Jul2025 15:16:28.413] [Worker-Main-189/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;1154287141,-1131000828,-1722453399,506254198],type:"minecraft:entity",y_offset:0.36f}}]
+[12Jul2025 15:18:18.797] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2045, y=35, z=3617}
+[12Jul2025 15:18:27.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[12Jul2025 15:18:37.337] [Worker-Main-188/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[12Jul2025 15:18:37.338] [Worker-Main-188/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[12Jul2025 15:18:37.338] [Worker-Main-188/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[12Jul2025 15:21:34.704] [Worker-Main-200/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1681, y=21, z=3255}
+[12Jul2025 15:21:34.704] [Worker-Main-200/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1681, y=22, z=3254}
+[12Jul2025 15:21:34.704] [Worker-Main-200/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1681, y=21, z=3255}
+[12Jul2025 15:21:34.704] [Worker-Main-200/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1681, y=22, z=3254}
+[12Jul2025 15:21:46.292] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2878, y=-46, z=588}
+[12Jul2025 15:21:47.591] [Worker-Main-189/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[12Jul2025 15:21:47.591] [Worker-Main-189/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[12Jul2025 15:21:47.591] [Worker-Main-189/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[12Jul2025 15:21:47.592] [Worker-Main-189/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[12Jul2025 15:21:51.709] [Worker-Main-199/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/60022, l='ServerLevel[world]', x=-1696.50, y=22.00, z=3230.50] as it would cause deadlock
+[12Jul2025 15:21:51.710] [Worker-Main-199/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/60024, l='ServerLevel[world]', x=-1704.50, y=22.00, z=3230.50] as it would cause deadlock
