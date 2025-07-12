@@ -2,9 +2,7 @@
 	id: "f1560095-bd08-4100-b4d8-75c6e03f0dc3"
 	type: "player"
 	player_name: "Elpompetas"
-	ranks: {
-		f1560095-bd08-4100-b4d8-75c6e03f0dc3: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Elpompetas"
 		"ftbteams:description": ""

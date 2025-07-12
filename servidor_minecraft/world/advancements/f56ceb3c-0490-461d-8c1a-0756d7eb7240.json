@@ -8219,79 +8219,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 23:39:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 23:39:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 23:39:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 23:39:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 23:39:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 23:39:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 23:39:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 23:39:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 23:39:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-07-08 23:40:05 +0000",
-      "log_spam_fixer": "2025-07-08 23:39:04 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 23:39:04 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 23:39:04 +0000"
-    },
-    "done": false
-  },
   "ribbits:recipes/mossy_oak_planks_slab_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-07-08 23:17:19 +0000"
@@ -8355,6 +8282,42 @@
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2025-07-08 23:17:19 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/obtain_chaotic_hexahedron": {
+    "criteria": {
+      "obtain_chaotic_hexahedron": "2025-07-08 23:19:56 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/scepter_of_sealed_chaos": {
+    "criteria": {
+      "has_chaotic_hexahedron": "2025-07-08 23:19:56 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-07-08 23:23:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-07-08 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-07-08 23:25:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-07-08 23:25:52 +0000"
     },
     "done": true
   },
@@ -8448,12 +8411,6 @@
     },
     "done": true
   },
-  "upgrade_aquatic:recipes/misc/cyan_dye_from_pickerelweed": {
-    "criteria": {
-      "has_pickerelweed": "2025-07-08 23:31:02 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/granite_tile_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-08 23:29:06 +0000"
@@ -8475,18 +8432,6 @@
   "stoneworks:recipes/building_blocks/mossy_granite_bricks_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-08 23:29:06 +0000"
-    },
-    "done": true
-  },
-  "upgrade_aquatic:recipes/food/boiled_pickerelweed_from_smoking": {
-    "criteria": {
-      "has_pickerelweed": "2025-07-08 23:31:02 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:story/labyrinth/obtain_chaotic_hexahedron": {
-    "criteria": {
-      "obtain_chaotic_hexahedron": "2025-07-08 23:19:56 +0000"
     },
     "done": true
   },
@@ -8526,12 +8471,6 @@
     },
     "done": true
   },
-  "upgrade_aquatic:recipes/food/boiled_pickerelweed": {
-    "criteria": {
-      "has_pickerelweed": "2025-07-08 23:31:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-07-08 23:29:06 +0000"
@@ -8553,12 +8492,6 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-08 23:29:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-07-08 23:25:52 +0000"
     },
     "done": true
   },
@@ -8616,21 +8549,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
-    "criteria": {
-      "has_raw_gold": "2025-07-08 23:25:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-07-08 23:29:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_gold_block": {
-    "criteria": {
-      "has_raw_gold": "2025-07-08 23:25:52 +0000"
     },
     "done": true
   },
@@ -8700,18 +8621,6 @@
     },
     "done": true
   },
-  "dungeonnowloading:recipes/combat/scepter_of_sealed_chaos": {
-    "criteria": {
-      "has_chaotic_hexahedron": "2025-07-08 23:19:56 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:the_wind_darkening": {
-    "criteria": {
-      "the_wind_darkening_0": "2025-07-08 23:23:31 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-08 23:29:06 +0000"
@@ -8772,12 +8681,6 @@
     },
     "done": true
   },
-  "upgrade_aquatic:recipes/food/boiled_pickerelweed_from_campfire_cooking": {
-    "criteria": {
-      "has_pickerelweed": "2025-07-08 23:31:02 +0000"
-    },
-    "done": true
-  },
   "stoneworks:recipes/building_blocks/granite_paver_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-08 23:29:06 +0000"
@@ -8805,6 +8708,108 @@
   "stoneworks:recipes/building_blocks/chiseled_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-07-08 23:29:06 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/misc/cyan_dye_from_pickerelweed": {
+    "criteria": {
+      "has_pickerelweed": "2025-07-08 23:31:02 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/food/boiled_pickerelweed_from_smoking": {
+    "criteria": {
+      "has_pickerelweed": "2025-07-08 23:31:02 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/food/boiled_pickerelweed": {
+    "criteria": {
+      "has_pickerelweed": "2025-07-08 23:31:02 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/food/boiled_pickerelweed_from_campfire_cooking": {
+    "criteria": {
+      "has_pickerelweed": "2025-07-08 23:31:02 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-12 23:07:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-12 23:07:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-12 23:07:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-12 23:07:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-12 23:07:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-12 23:07:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-12 23:07:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-12 23:07:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-12 23:07:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-12 23:07:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-12 23:07:23 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-12 23:07:23 +0000"
+    },
+    "done": false
+  },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2025-07-12 23:05:51 +0000"
     },
     "done": true
   },

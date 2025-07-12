@@ -10201,3 +10201,54 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [12Jul2025 22:56:35.483] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Elpompetas (18)
 [12Jul2025 22:56:35.483] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Elpompetas
 [12Jul2025 22:56:46.112] [Server thread/INFO] [do_a_barrel_roll/]: Client of Elpompetas accepted server config.
+[12Jul2025 23:01:40.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 has made the advancement [Enter the Undergarden]
+[12Jul2025 23:01:52.547] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[12Jul2025 23:01:56.803] [Server thread/INFO] [do_a_barrel_roll/]: Client of AlejaXxD13 accepted server config.
+[12Jul2025 23:01:56.851] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16984ms or 339 ticks behind
+[12Jul2025 23:01:57.856] [Worker-Main-94/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [8 above bottom-0 absolute]
+[12Jul2025 23:02:52.057] [Server thread/INFO] [do_a_barrel_roll/]: Client of AlejaXxD13 accepted server config.
+[12Jul2025 23:03:28.589] [Server thread/INFO] [do_a_barrel_roll/]: Client of AlejaXxD13 accepted server config.
+[12Jul2025 23:03:28.635] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14168ms or 283 ticks behind
+[12Jul2025 23:05:48.977] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Charwx080_aja is f56ceb3c-0490-461d-8c1a-0756d7eb7240
+[12Jul2025 23:05:51.721] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Charwx080_aja[/127.147.221.215:35763] logged in with entity id 77505 at (-2225.454584041394, 64.0, 787.4231861990402)
+[12Jul2025 23:05:51.725] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[12Jul2025 23:05:51.725] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[12Jul2025 23:05:51.751] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Charwx080_aja
+[12Jul2025 23:05:51.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Charwx080_aja joined the game
+[12Jul2025 23:05:51.811] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f56ceb3c-0490-461d-8c1a-0756d7eb7240
+[12Jul2025 23:05:51.850] [Server thread/INFO] [Jade/]: Syncing config to Charwx080_aja (f56ceb3c-0490-461d-8c1a-0756d7eb7240)
+[12Jul2025 23:05:55.115] [Server thread/INFO] [ping-wheel/]: Channel update: Charwx080_aja -> default
+[12Jul2025 23:05:55.115] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Charwx080_aja (18)
+[12Jul2025 23:05:55.115] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Charwx080_aja
+[12Jul2025 23:06:02.742] [Server thread/INFO] [do_a_barrel_roll/]: Client of Charwx080_aja accepted server config.
+[12Jul2025 23:06:02.922] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[12Jul2025 23:06:20.004] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2086ms or 41 ticks behind
+[12Jul2025 23:07:21.280] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[12Jul2025 23:07:49.884] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[12Jul2025 23:08:09.802] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4935ms or 98 ticks behind
+[12Jul2025 23:08:11.407] [Server thread/INFO] [do_a_barrel_roll/]: Client of Elpompetas accepted server config.
+[12Jul2025 23:08:53.617] [Worker-Main-91/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2947, y=-50, z=593}
+[12Jul2025 23:08:53.618] [Worker-Main-91/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2947, y=-50, z=593}
+[12Jul2025 23:08:53.619] [Worker-Main-91/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2947, y=-50, z=593}
+[12Jul2025 23:09:02.602] [Worker-Main-90/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[12Jul2025 23:09:02.602] [Worker-Main-90/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[12Jul2025 23:09:02.603] [Worker-Main-90/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[12Jul2025 23:09:02.604] [Worker-Main-90/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[12Jul2025 23:09:47.570] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[12Jul2025 23:10:05.822] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[12Jul2025 23:10:24.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[12Jul2025 23:10:42.637] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3419ms or 68 ticks behind
+[12Jul2025 23:11:00.620] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[12Jul2025 23:11:15.636] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Webby80es is cb7eef6e-db76-493a-833a-9d516abc0597
+[12Jul2025 23:11:18.357] [pool-8-thread-1/INFO] [Vivecraft/]: Vivecraft: Checking for Updates
+[12Jul2025 23:11:18.358] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Webby80es[/127.150.0.97:41179] logged in with entity id 87999 at (-2320.6571512003934, 25.0, 819.2405142364867)
+[12Jul2025 23:11:18.361] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[12Jul2025 23:11:18.361] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[12Jul2025 23:11:18.382] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Webby80es
+[12Jul2025 23:11:18.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es joined the game
+[12Jul2025 23:11:18.521] [Server thread/INFO] [Jade/]: Syncing config to Webby80es (cb7eef6e-db76-493a-833a-9d516abc0597)
+[12Jul2025 23:11:18.522] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cb7eef6e-db76-493a-833a-9d516abc0597
+[12Jul2025 23:11:23.943] [Server thread/INFO] [ping-wheel/]: Channel update: Webby80es -> default
+[12Jul2025 23:11:23.944] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Webby80es (18)
+[12Jul2025 23:11:23.944] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Webby80es
+[12Jul2025 23:11:37.088] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
