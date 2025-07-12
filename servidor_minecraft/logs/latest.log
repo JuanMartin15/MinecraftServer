@@ -10610,3 +10610,23 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [12Jul2025 17:46:06.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2323.500000, 39.500000, 850.500000]
 [12Jul2025 18:16:04.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Swordragons has made the advancement [The Andesite Age]
 [12Jul2025 18:34:22.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Swordragons has made the advancement [Bonk!]
+[12Jul2025 19:18:52.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to Swordragons]
+[12Jul2025 19:23:00.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2323.500000, 39.500000, 850.500000]
+[12Jul2025 19:23:38.487] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Webby80es is cb7eef6e-db76-493a-833a-9d516abc0597
+[12Jul2025 19:23:41.305] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Webby80es lost connection: You logged in from another location
+[12Jul2025 19:23:41.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es left the game
+[12Jul2025 19:23:41.306] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cb7eef6e-db76-493a-833a-9d516abc0597
+[12Jul2025 19:23:41.306] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Webby80es
+[12Jul2025 19:23:41.383] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Jul2025 19:23:41.384] [pool-8-thread-1/INFO] [Vivecraft/]: Vivecraft: Checking for Updates
+[12Jul2025 19:23:41.385] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Webby80es[/127.150.0.97:54547] logged in with entity id 300373 at (-2322.3769572290894, 25.0, 840.928050253552)
+[12Jul2025 19:23:41.388] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[12Jul2025 19:23:41.388] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[12Jul2025 19:23:41.410] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Webby80es
+[12Jul2025 19:23:41.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es joined the game
+[12Jul2025 19:23:41.551] [Server thread/INFO] [Jade/]: Syncing config to Webby80es (cb7eef6e-db76-493a-833a-9d516abc0597)
+[12Jul2025 19:23:41.552] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cb7eef6e-db76-493a-833a-9d516abc0597
+[12Jul2025 19:23:42.238] [Server thread/INFO] [ping-wheel/]: Channel update: Webby80es -> default
+[12Jul2025 19:23:42.238] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Webby80es (18)
+[12Jul2025 19:23:42.238] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Webby80es
+[12Jul2025 19:24:00.448] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
