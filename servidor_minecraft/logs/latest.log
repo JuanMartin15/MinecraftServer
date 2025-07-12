@@ -10570,3 +10570,12 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [12Jul2025 16:50:05.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has made the advancement [A Bone to Pick]
 [12Jul2025 16:50:07.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Swordragons has made the advancement [A Bone to Pick]
 [12Jul2025 16:53:08.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has completed the challenge [It Spreads]
+[12Jul2025 16:54:22.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es was burnt to a crisp whilst fighting Swordragons
+[12Jul2025 16:54:23.869] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
+[12Jul2025 16:54:26.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to Swordragons]
+[12Jul2025 16:54:39.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Applied effect Night Vision to Webby80es]
+[12Jul2025 16:56:20.285] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elpompetas lost connection: Disconnected
+[12Jul2025 16:56:20.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas left the game
+[12Jul2025 16:56:20.285] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f1560095-bd08-4100-b4d8-75c6e03f0dc3
+[12Jul2025 16:56:20.286] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Elpompetas
+[12Jul2025 16:57:48.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Spectator Mode]
