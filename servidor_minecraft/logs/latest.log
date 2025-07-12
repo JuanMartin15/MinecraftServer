@@ -10168,3 +10168,11 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [12Jul2025 22:04:49.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has completed the challenge [Just a Flesh Wound]
 [12Jul2025 22:18:05.618] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [12Jul2025 22:19:30.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2323.500000, 39.500000, 850.500000]
+[12Jul2025 22:21:22.897] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Webby80es lost connection: Disconnected
+[12Jul2025 22:21:22.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es left the game
+[12Jul2025 22:21:22.900] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cb7eef6e-db76-493a-833a-9d516abc0597
+[12Jul2025 22:21:22.903] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Webby80es
+[12Jul2025 22:26:43.344] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Swordragons lost connection: Disconnected
+[12Jul2025 22:26:43.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Swordragons left the game
+[12Jul2025 22:26:43.345] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 39d9e18d-44a2-486f-b4f3-b40845c02da6
+[12Jul2025 22:26:43.345] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Swordragons
