@@ -10555,3 +10555,18 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [12Jul2025 16:36:27.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Applied effect Invisibility to Webby80es]
 [12Jul2025 16:43:07.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Applied effect Night Vision to Webby80es]
 [12Jul2025 16:43:54.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to Swordragons]
+[12Jul2025 16:44:15.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to Swordragons]
+[12Jul2025 16:45:19.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas was slain by Lifestealer
+[12Jul2025 16:45:21.035] [Server thread/INFO] [do_a_barrel_roll/]: Client of Elpompetas accepted server config.
+[12Jul2025 16:45:29.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Elpompetas to Webby80es]
+[12Jul2025 16:46:09.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Swordragons withered away whilst fighting Lifestealer
+[12Jul2025 16:46:11.855] [Server thread/INFO] [do_a_barrel_roll/]: Client of Swordragons accepted server config.
+[12Jul2025 16:46:12.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas was killed by Webby80es using magic
+[12Jul2025 16:46:16.868] [Server thread/INFO] [do_a_barrel_roll/]: Client of Elpompetas accepted server config.
+[12Jul2025 16:46:17.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has reached the goal [Horror Under the Mantle]
+[12Jul2025 16:46:28.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Elpompetas to Webby80es]
+[12Jul2025 16:46:32.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Swordragons to Webby80es]
+[12Jul2025 16:50:05.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas has made the advancement [A Bone to Pick]
+[12Jul2025 16:50:05.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has made the advancement [A Bone to Pick]
+[12Jul2025 16:50:07.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Swordragons has made the advancement [A Bone to Pick]
+[12Jul2025 16:53:08.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has completed the challenge [It Spreads]
