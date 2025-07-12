@@ -2708,6 +2708,7 @@
       "minecraft:skeleton": "2025-07-08 20:51:18 +0000",
       "minecraft:spider": "2025-07-08 21:02:31 +0000",
       "minecraft:creeper": "2025-07-09 00:03:14 +0000",
+      "minecraft:cave_spider": "2025-07-12 15:56:23 +0000",
       "minecraft:zombie": "2025-07-08 20:29:16 +0000",
       "minecraft:drowned": "2025-07-08 21:05:45 +0000",
       "minecraft:zombie_villager": "2025-07-08 21:06:23 +0000"
@@ -3454,10 +3455,12 @@
       "cookie": "2025-07-08 21:07:34 +0000",
       "suspicious_stew": "2025-07-08 23:10:15 +0000",
       "cooked_chicken": "2025-07-08 20:41:00 +0000",
+      "mushroom_stew": "2025-07-12 15:58:44 +0000",
       "cooked_mutton": "2025-07-08 22:30:17 +0000",
       "sweet_berries": "2025-07-08 21:38:08 +0000",
       "apple": "2025-07-08 22:35:11 +0000",
       "bread": "2025-07-08 20:47:10 +0000",
+      "melon_slice": "2025-07-12 15:47:08 +0000",
       "carrot": "2025-07-08 20:50:14 +0000"
     },
     "done": false
@@ -6290,80 +6293,121 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 15:37:41 +0000"
+      "log_spam_fixer": "2025-07-12 16:00:45 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 15:37:41 +0000"
+      "log_spam_fixer": "2025-07-12 16:00:45 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 15:37:41 +0000"
+      "log_spam_fixer": "2025-07-12 16:00:45 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 15:37:41 +0000"
+      "log_spam_fixer": "2025-07-12 16:00:45 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 15:37:41 +0000"
+      "log_spam_fixer": "2025-07-12 16:00:45 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 15:37:41 +0000"
+      "log_spam_fixer": "2025-07-12 16:00:45 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 15:37:41 +0000"
+      "log_spam_fixer": "2025-07-12 16:00:45 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 15:37:41 +0000"
+      "log_spam_fixer": "2025-07-12 16:00:45 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 15:37:41 +0000"
+      "log_spam_fixer": "2025-07-12 16:00:45 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-07-12 15:37:40 +0000",
-      "log_spam_fixer": "2025-07-12 15:37:41 +0000"
+      "log_spam_fixer": "2025-07-12 16:00:45 +0000"
     },
-    "done": true
+    "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 15:37:41 +0000"
+      "log_spam_fixer": "2025-07-12 16:00:45 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 15:37:41 +0000"
+      "log_spam_fixer": "2025-07-12 16:00:45 +0000"
     },
     "done": false
+  },
+  "valhelsia_furniture:recipes/decorations/hay_warped_chair": {
+    "criteria": {
+      "has_hay_block": "2025-07-12 15:46:45 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-07-12 15:30:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-07-12 15:47:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-07-12 15:58:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-07-12 15:47:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_spruce_chair": {
+    "criteria": {
+      "has_hay_block": "2025-07-12 15:46:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-12 15:42:51 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_sapling": "2025-07-12 15:38:39 +0000"
     },
     "done": true
   },
@@ -6373,9 +6417,129 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-07-12 15:42:51 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/tools/phasometer": {
+    "criteria": {
+      "has_spyglass": "2025-07-12 15:41:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-07-12 15:42:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-07-12 15:47:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-07-12 15:30:29 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_jungle_chair": {
+    "criteria": {
+      "has_hay_block": "2025-07-12 15:46:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-07-12 15:47:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-07-12 15:46:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-07-12 15:46:45 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_cherry_chair": {
+    "criteria": {
+      "has_hay_block": "2025-07-12 15:46:45 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_mangrove_chair": {
+    "criteria": {
+      "has_hay_block": "2025-07-12 15:46:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-07-12 15:47:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2025-07-12 15:50:54 +0000"
+    },
+    "done": true
+  },
+  "dummmmmmy:recipes/dummy_crafting": {
+    "criteria": {
+      "has_hay_block": "2025-07-12 15:46:45 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_acacia_chair": {
+    "criteria": {
+      "has_hay_block": "2025-07-12 15:46:45 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/food/mushroom_stew_from_coconut_husk": {
+    "criteria": {
+      "has_mushroom_stew": "2025-07-12 15:50:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-12 15:42:51 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_crimson_chair": {
+    "criteria": {
+      "has_hay_block": "2025-07-12 15:46:45 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_dark_oak_chair": {
+    "criteria": {
+      "has_hay_block": "2025-07-12 15:46:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-07-12 15:46:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-07-12 15:41:28 +0000"
     },
     "done": true
   },
