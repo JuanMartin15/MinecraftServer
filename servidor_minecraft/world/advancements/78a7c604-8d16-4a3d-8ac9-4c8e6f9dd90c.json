@@ -3997,6 +3997,7 @@
       "minecraft:skeleton": "2025-07-08 15:56:53 +0000",
       "minecraft:spider": "2025-07-08 15:34:31 +0000",
       "minecraft:creeper": "2025-07-08 15:33:48 +0000",
+      "minecraft:wither_skeleton": "2025-07-12 23:37:30 +0000",
       "minecraft:cave_spider": "2025-07-11 14:55:37 +0000",
       "minecraft:stray": "2025-07-11 15:18:02 +0000",
       "minecraft:vex": "2025-07-11 15:17:25 +0000",
@@ -8489,76 +8490,82 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 23:29:55 +0000"
+      "log_spam_fixer": "2025-07-12 23:36:42 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 23:29:55 +0000"
+      "log_spam_fixer": "2025-07-12 23:36:42 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 23:29:55 +0000"
+      "log_spam_fixer": "2025-07-12 23:36:42 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 23:29:55 +0000"
+      "log_spam_fixer": "2025-07-12 23:36:42 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 23:29:55 +0000"
+      "log_spam_fixer": "2025-07-12 23:36:42 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 23:29:55 +0000"
+      "log_spam_fixer": "2025-07-12 23:36:42 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 23:29:55 +0000"
+      "log_spam_fixer": "2025-07-12 23:36:42 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 23:29:55 +0000"
+      "log_spam_fixer": "2025-07-12 23:36:42 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 23:29:55 +0000"
+      "log_spam_fixer": "2025-07-12 23:36:42 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-07-12 23:30:36 +0000",
-      "log_spam_fixer": "2025-07-12 23:29:55 +0000"
+      "requirement": "2025-07-12 23:37:29 +0000",
+      "log_spam_fixer": "2025-07-12 23:36:42 +0000"
     },
     "done": true
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 23:29:55 +0000"
+      "log_spam_fixer": "2025-07-12 23:36:42 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 23:29:55 +0000"
+      "log_spam_fixer": "2025-07-12 23:36:42 +0000"
     },
     "done": false
+  },
+  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
+    "criteria": {
+      "has_item": "2025-07-12 23:33:54 +0000"
+    },
+    "done": true
   },
   "undergarden:undergarden/kill_rotling": {
     "criteria": {
@@ -8574,9 +8581,16 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-07-12 23:29:44 +0000"
+      "minecraft:crimson_forest": "2025-07-12 23:29:44 +0000",
+      "minecraft:nether_wastes": "2025-07-12 23:32:53 +0000"
     },
     "done": false
+  },
+  "stoneworks:recipes/building_blocks/cracked_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-12 23:33:54 +0000"
+    },
+    "done": true
   },
   "undergarden:recipes/building_blocks/polished_depthrock_stairs_stonecutting": {
     "criteria": {
@@ -8593,6 +8607,12 @@
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-12 23:00:13 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-12 23:33:54 +0000"
     },
     "done": true
   },
@@ -8638,9 +8658,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-12 23:33:54 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/building_blocks/depthrock_slab_stonecutting": {
     "criteria": {
       "has_undergarden:depthrock": "2025-07-12 23:06:12 +0000"
+    },
+    "done": true
+  },
+  "rubinated_nether:recipes/misc/soakstone": {
+    "criteria": {
+      "has_netherrack": "2025-07-12 23:33:54 +0000"
     },
     "done": true
   },
@@ -8653,6 +8685,12 @@
   "stoneworks:recipes/building_blocks/stone_tile_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-12 23:00:13 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-12 23:33:54 +0000"
     },
     "done": true
   },
@@ -8674,6 +8712,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-07-12 23:33:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-07-12 23:00:13 +0000"
@@ -8686,9 +8730,27 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/netherrack_brick_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-12 23:33:54 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/building_blocks/polished_depthrock": {
     "criteria": {
       "has_depthrock": "2025-07-12 23:06:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_obsidian": "2025-07-12 23:33:11 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-12 23:33:54 +0000"
     },
     "done": true
   },
@@ -8714,6 +8776,12 @@
       "undergarden:ancient_sea": "2025-07-12 23:05:05 +0000"
     },
     "done": false
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-12 23:33:54 +0000"
+    },
+    "done": true
   },
   "undergarden:recipes/building_blocks/polished_depthrock_wall_stonecutting": {
     "criteria": {
@@ -8781,6 +8849,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-12 23:33:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-12 23:00:13 +0000"
@@ -8834,6 +8908,12 @@
   "stoneworks:recipes/building_blocks/stone_plate_wall_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-12 23:00:13 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-12 23:33:54 +0000"
     },
     "done": true
   },
@@ -8891,6 +8971,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-12 23:33:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/stone_button": {
     "criteria": {
       "has_stone": "2025-07-12 23:00:13 +0000"
@@ -8918,6 +9004,24 @@
   "undergarden:recipes/misc/froststeel_nugget_to_ingot": {
     "criteria": {
       "has_froststeel_nugget": "2025-07-12 23:16:44 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-12 23:33:54 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-12 23:33:54 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-12 23:33:54 +0000"
     },
     "done": true
   },
@@ -8957,6 +9061,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-12 23:33:11 +0000"
+    },
+    "done": true
+  },
   "undergarden:undergarden/kill_forgotten_guardian": {
     "criteria": {
       "kill_forgotten_guardian": "2025-07-12 23:21:06 +0000"
@@ -8969,15 +9079,33 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-12 23:33:54 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/misc/forgotten_axe_smithing": {
     "criteria": {
       "has_undergarden:forgotten_ingot": "2025-07-12 23:28:40 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-12 23:33:54 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/stone_lamp": {
     "criteria": {
       "has_stone": "2025-07-12 23:00:13 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-12 23:33:54 +0000"
     },
     "done": true
   },
@@ -9008,6 +9136,12 @@
   "undergarden:undergarden/forgotten_ingot": {
     "criteria": {
       "has_forgotten_ingot": "2025-07-12 23:28:40 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-12 23:33:54 +0000"
     },
     "done": true
   },
@@ -9047,9 +9181,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-12 23:33:54 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/decorations/stonecutter_from_depthrock": {
     "criteria": {
       "has_depthrock": "2025-07-12 23:06:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-12 23:33:54 +0000"
     },
     "done": true
   },
@@ -9068,6 +9214,12 @@
   "undergarden:recipes/building_blocks/depthrock_slab": {
     "criteria": {
       "has_depthrock": "2025-07-12 23:06:12 +0000"
+    },
+    "done": true
+  },
+  "rubinated_nether:recipes/misc/ruby_brazier": {
+    "criteria": {
+      "has_obsidian": "2025-07-12 23:33:11 +0000"
     },
     "done": true
   },
@@ -9131,9 +9283,27 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-12 23:33:54 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/building_blocks/depthrock_bricks_stonecutting": {
     "criteria": {
       "has_undergarden:depthrock": "2025-07-12 23:06:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-12 23:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-07-12 23:33:11 +0000"
     },
     "done": true
   },

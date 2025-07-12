@@ -10389,3 +10389,78 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [12Jul2025 23:31:38.374] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3806ms or 76 ticks behind
 [12Jul2025 23:31:57.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3768ms or 75 ticks behind
 [12Jul2025 23:32:16.999] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4881ms or 97 ticks behind
+[12Jul2025 23:32:40.756] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8788ms or 175 ticks behind
+[12Jul2025 23:32:56.470] [Worker-Main-87/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/109756, l='ServerLevel[world]', x=-654.00, y=31.00, z=66.00] as it would cause deadlock
+[12Jul2025 23:33:06.998] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11281ms or 225 ticks behind
+[12Jul2025 23:33:11.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 has made the advancement [Ice Bucket Challenge]
+[12Jul2025 23:33:30.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8681ms or 173 ticks behind
+[12Jul2025 23:33:56.002] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10385ms or 207 ticks behind
+[12Jul2025 23:34:19.862] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8895ms or 177 ticks behind
+[12Jul2025 23:34:28.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Banned Elpompetas: Banned by an operator.]
+[12Jul2025 23:34:28.829] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elpompetas lost connection: You are banned from this server
+[12Jul2025 23:34:28.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas left the game
+[12Jul2025 23:34:28.830] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f1560095-bd08-4100-b4d8-75c6e03f0dc3
+[12Jul2025 23:34:28.830] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Elpompetas
+[12Jul2025 23:34:32.099] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Elpompetas is f1560095-bd08-4100-b4d8-75c6e03f0dc3
+[12Jul2025 23:34:35.993] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@499260e4[id=f1560095-bd08-4100-b4d8-75c6e03f0dc3,name=Elpompetas,properties={textures=[com.mojang.authlib.properties.Property@16d7fa0a]},legacy=false] (/127.47.61.107:45133): You are banned from this server.
+Reason: Banned by an operator.
+[12Jul2025 23:34:35.995] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@499260e4[id=f1560095-bd08-4100-b4d8-75c6e03f0dc3,name=Elpompetas,properties={textures=[com.mojang.authlib.properties.Property@16d7fa0a]},legacy=false] (/127.47.61.107:45133) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[12Jul2025 23:34:36.077] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Jul2025 23:34:38.560] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Elpompetas is f1560095-bd08-4100-b4d8-75c6e03f0dc3
+[12Jul2025 23:34:42.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7578ms or 151 ticks behind
+[12Jul2025 23:34:42.474] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1e943c75[id=f1560095-bd08-4100-b4d8-75c6e03f0dc3,name=Elpompetas,properties={textures=[com.mojang.authlib.properties.Property@324a55]},legacy=false] (/127.47.61.107:60551): You are banned from this server.
+Reason: Banned by an operator.
+[12Jul2025 23:34:42.474] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1e943c75[id=f1560095-bd08-4100-b4d8-75c6e03f0dc3,name=Elpompetas,properties={textures=[com.mojang.authlib.properties.Property@324a55]},legacy=false] (/127.47.61.107:60551) lost connection: You are banned from this server.
+Reason: Banned by an operator.
+[12Jul2025 23:34:42.564] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Jul2025 23:35:03.618] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6250ms or 125 ticks behind
+[12Jul2025 23:35:18.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Swordragons has made the advancement [Voluntary Exile]
+[12Jul2025 23:35:22.538] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3920ms or 78 ticks behind
+[12Jul2025 23:35:41.189] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3671ms or 73 ticks behind
+[12Jul2025 23:35:51.007] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-651, y=46, z=111} BlockPos{x=-651, y=44, z=115}
+[12Jul2025 23:35:51.061] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-651, y=46, z=111} BlockPos{x=-651, y=44, z=115}
+[12Jul2025 23:35:51.122] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-651, y=46, z=111} BlockPos{x=-651, y=44, z=115}
+[12Jul2025 23:35:51.124] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-651, y=46, z=111} BlockPos{x=-651, y=44, z=115}
+[12Jul2025 23:35:51.180] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-651, y=46, z=111} BlockPos{x=-651, y=44, z=115}
+[12Jul2025 23:35:51.236] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-651, y=46, z=111} BlockPos{x=-651, y=44, z=115}
+[12Jul2025 23:35:51.292] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-651, y=46, z=111} BlockPos{x=-651, y=44, z=115}
+[12Jul2025 23:35:59.024] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2857ms or 57 ticks behind
+[12Jul2025 23:36:16.049] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[12Jul2025 23:36:35.691] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[12Jul2025 23:36:38.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Webby80es> De verdad no puedo con fran
+[12Jul2025 23:36:44.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Webby80es> Me tiene hasta la misma polla
+[12Jul2025 23:36:53.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[12Jul2025 23:36:57.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AlejaXxD13> nigger
+[12Jul2025 23:37:02.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Webby80es> Fuck
+[12Jul2025 23:37:08.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Charwx080_aja> what the hell
+[12Jul2025 23:37:11.825] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3257ms or 65 ticks behind
+[12Jul2025 23:37:20.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Webby80es> No pero cabron a la minima que digo algo me empieza a insultar pero que cojones
+[12Jul2025 23:37:26.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Webby80es> Estoy hasta la polla
+[12Jul2025 23:37:28.871] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[12Jul2025 23:37:48.322] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4455ms or 89 ticks behind
+[12Jul2025 23:38:05.941] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2623ms or 52 ticks behind
+[12Jul2025 23:38:24.872] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[12Jul2025 23:38:26.771] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charwx080_aja lost connection: Disconnected
+[12Jul2025 23:38:26.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Charwx080_aja left the game
+[12Jul2025 23:38:26.772] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f56ceb3c-0490-461d-8c1a-0756d7eb7240
+[12Jul2025 23:38:26.772] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Charwx080_aja
+[12Jul2025 23:38:47.439] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[12Jul2025 23:38:48.587] [Worker-Main-94/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/116366, l='ServerLevel[world]', x=-810.00, y=31.00, z=-71.00] as it would cause deadlock
+[12Jul2025 23:39:04.786] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2369ms or 47 ticks behind
+[12Jul2025 23:39:24.169] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[12Jul2025 23:39:41.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2385ms or 47 ticks behind
+[12Jul2025 23:39:59.258] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2741ms or 54 ticks behind
+[12Jul2025 23:40:01.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Banned Delete: Banned by an operator.]
+[12Jul2025 23:40:18.287] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4070ms or 81 ticks behind
+[12Jul2025 23:40:21.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Unbanned Elpompetas]
+[12Jul2025 23:40:25.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Unbanned Delete]
+[12Jul2025 23:40:35.434] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2167ms or 43 ticks behind
+[12Jul2025 23:40:50.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 has made the advancement [Those Were the Days]
+[12Jul2025 23:40:54.312] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3895ms or 77 ticks behind
+[12Jul2025 23:41:16.021] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[12Jul2025 23:41:34.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[12Jul2025 23:41:52.632] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2865ms or 57 ticks behind
+[12Jul2025 23:41:53.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 has made the advancement [War Pigs]
+[12Jul2025 23:42:10.301] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2683ms or 53 ticks behind
+[12Jul2025 23:42:35.073] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
