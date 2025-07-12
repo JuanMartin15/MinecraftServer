@@ -10147,3 +10147,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [12Jul2025 14:14:34.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Spectator Mode]
 [12Jul2025 14:21:38.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2323.500000, 39.500000, 850.500000]
 [12Jul2025 14:28:05.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Successfully filled 56 block(s)]
+[12Jul2025 14:53:51.976] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Webby80es lost connection: Disconnected
+[12Jul2025 14:53:51.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es left the game
+[12Jul2025 14:53:51.979] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cb7eef6e-db76-493a-833a-9d516abc0597
+[12Jul2025 14:53:51.983] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Webby80es
