@@ -10165,3 +10165,4 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [12Jul2025 21:57:35.977] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
 [12Jul2025 21:57:54.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
 [12Jul2025 21:59:49.270] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[12Jul2025 22:04:49.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has completed the challenge [Just a Flesh Wound]
