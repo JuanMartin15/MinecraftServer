@@ -10605,3 +10605,46 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [13Jul2025 23:19:50.899] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3245ms or 64 ticks behind
 [13Jul2025 23:20:09.490] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3636ms or 72 ticks behind
 [13Jul2025 23:20:28.190] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3736ms or 74 ticks behind
+[13Jul2025 23:20:47.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3963ms or 79 ticks behind
+[13Jul2025 23:21:06.039] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3935ms or 78 ticks behind
+[13Jul2025 23:21:25.084] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4080ms or 81 ticks behind
+[13Jul2025 23:21:44.434] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4380ms or 87 ticks behind
+[13Jul2025 23:22:03.650] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4246ms or 84 ticks behind
+[13Jul2025 23:22:22.779] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4175ms or 83 ticks behind
+[13Jul2025 23:22:42.355] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4601ms or 92 ticks behind
+[13Jul2025 23:23:02.289] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4935ms or 98 ticks behind
+[13Jul2025 23:23:22.091] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4837ms or 96 ticks behind
+[13Jul2025 23:23:41.914] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4860ms or 97 ticks behind
+[13Jul2025 23:24:01.847] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4942ms or 98 ticks behind
+[13Jul2025 23:24:21.694] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4890ms or 97 ticks behind
+[13Jul2025 23:24:41.346] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4692ms or 93 ticks behind
+[13Jul2025 23:25:00.805] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4500ms or 90 ticks behind
+[13Jul2025 23:25:20.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4973ms or 99 ticks behind
+[13Jul2025 23:25:37.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2323.500000, 39.500000, 850.500000]
+[13Jul2025 23:25:41.675] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5921ms or 118 ticks behind
+[13Jul2025 23:26:05.794] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9140ms or 182 ticks behind
+[13Jul2025 23:26:30.811] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10057ms or 201 ticks behind
+[13Jul2025 23:26:46.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 was slain by Decaying Zombie
+[13Jul2025 23:26:47.882] [Server thread/INFO] [do_a_barrel_roll/]: Client of AlejaXxD13 accepted server config.
+[13Jul2025 23:26:55.383] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9579ms or 191 ticks behind
+[13Jul2025 23:27:01.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 has reached the goal [Exorcism]
+[13Jul2025 23:27:20.684] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10330ms or 206 ticks behind
+[13Jul2025 23:27:44.356] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8702ms or 174 ticks behind
+[13Jul2025 23:28:08.696] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9342ms or 186 ticks behind
+[13Jul2025 23:28:20.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 was slain by Zombie Bruiser
+[13Jul2025 23:28:21.816] [Server thread/INFO] [do_a_barrel_roll/]: Client of AlejaXxD13 accepted server config.
+[13Jul2025 23:28:33.072] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9418ms or 188 ticks behind
+[13Jul2025 23:28:48.757] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[13Jul2025 23:28:48.758] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[13Jul2025 23:28:48.758] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[13Jul2025 23:28:48.758] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[13Jul2025 23:28:48.758] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[13Jul2025 23:28:48.758] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[13Jul2025 23:28:48.759] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[13Jul2025 23:28:48.759] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[13Jul2025 23:28:58.611] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10556ms or 211 ticks behind
+[13Jul2025 23:29:24.311] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10707ms or 214 ticks behind
+[13Jul2025 23:29:30.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 was shot by Missionary
+[13Jul2025 23:29:32.104] [Server thread/INFO] [do_a_barrel_roll/]: Client of AlejaXxD13 accepted server config.
+[13Jul2025 23:29:50.524] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11220ms or 224 ticks behind
+[13Jul2025 23:30:17.914] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12409ms or 248 ticks behind
