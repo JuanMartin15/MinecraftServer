@@ -10148,3 +10148,32 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [13Jul2025 21:25:29.645] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
 [13Jul2025 21:25:30.607] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3153ms or 63 ticks behind
 [13Jul2025 21:25:54.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Spectator Mode]
+[13Jul2025 21:32:27.750] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AlejaXxD13 is 78a7c604-8d16-4a3d-8ac9-4c8e6f9dd90c
+[13Jul2025 21:32:30.665] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlejaXxD13[/127.126.91.214:58963] logged in with entity id 6392 at (-674.9490236055708, 61.0, -120.27090118049114)
+[13Jul2025 21:32:30.669] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[13Jul2025 21:32:30.669] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[13Jul2025 21:32:30.700] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AlejaXxD13
+[13Jul2025 21:32:30.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 joined the game
+[13Jul2025 21:32:30.762] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 78a7c604-8d16-4a3d-8ac9-4c8e6f9dd90c
+[13Jul2025 21:32:30.845] [Server thread/INFO] [Jade/]: Syncing config to AlejaXxD13 (78a7c604-8d16-4a3d-8ac9-4c8e6f9dd90c)
+[13Jul2025 21:32:34.950] [Server thread/INFO] [ping-wheel/]: Channel update: AlejaXxD13 -> default
+[13Jul2025 21:32:34.950] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AlejaXxD13 (18)
+[13Jul2025 21:32:34.950] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AlejaXxD13
+[13Jul2025 21:32:40.405] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[13Jul2025 21:32:50.683] [Server thread/INFO] [do_a_barrel_roll/]: Client of AlejaXxD13 accepted server config.
+[13Jul2025 21:33:09.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Webby80es> Perez gay
+[13Jul2025 21:33:17.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AlejaXxD13> fuuuuuuuuuuuuuuuuck oooooooooooooooooooooff
+[13Jul2025 21:33:58.062] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[13Jul2025 21:34:11.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 has made the advancement [Darude - Firestorm]
+[13Jul2025 21:34:11.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 has made the advancement [Strange Biomes]
+[13Jul2025 21:34:13.291] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [8 above bottom-0 absolute]
+[13Jul2025 21:34:31.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 has made the advancement [Ancient Battlefield]
+[13Jul2025 21:35:13.291] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/8501, l='ServerLevel[world]', x=-707.25, y=53.02, z=-276.69] died: Restless Spirit was shot by Headless Warrior
+[13Jul2025 21:35:26.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 has reached the goal [Alchemical Experiments]
+[13Jul2025 21:35:55.506] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withered Scientist'/6724, l='ServerLevel[world]', x=-660.35, y=34.00, z=-270.35] died: Withered Scientist was slain by Piglin
+[13Jul2025 21:36:02.076] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/9595, l='ServerLevel[world]', x=-664.05, y=32.03, z=-281.93] died: Restless Spirit was shot by Withered Scientist
+[13Jul2025 21:36:03.192] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withered Scientist'/7713, l='ServerLevel[world]', x=-665.61, y=33.00, z=-285.78] died: Withered Scientist was slain by Piglin
+[13Jul2025 21:36:12.708] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withered Scientist'/7555, l='ServerLevel[world]', x=-678.65, y=33.00, z=-286.49] died: Withered Scientist was slain by Piglin
+[13Jul2025 21:36:18.258] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withered Scientist'/7553, l='ServerLevel[world]', x=-688.65, y=33.00, z=-281.54] died: Withered Scientist was slain by Piglin
+[13Jul2025 21:36:31.607] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withered Scientist'/7552, l='ServerLevel[world]', x=-681.42, y=33.00, z=-262.41] died: Withered Scientist was slain by Piglin
+[13Jul2025 21:37:19.221] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/9198, l='ServerLevel[world]', x=-680.33, y=33.00, z=-270.42] died: Headless Warrior was slain by AlejaXxD13
