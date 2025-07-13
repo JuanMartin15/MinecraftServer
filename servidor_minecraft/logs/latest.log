@@ -10177,3 +10177,30 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [13Jul2025 21:36:18.258] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withered Scientist'/7553, l='ServerLevel[world]', x=-688.65, y=33.00, z=-281.54] died: Withered Scientist was slain by Piglin
 [13Jul2025 21:36:31.607] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withered Scientist'/7552, l='ServerLevel[world]', x=-681.42, y=33.00, z=-262.41] died: Withered Scientist was slain by Piglin
 [13Jul2025 21:37:19.221] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/9198, l='ServerLevel[world]', x=-680.33, y=33.00, z=-270.42] died: Headless Warrior was slain by AlejaXxD13
+[13Jul2025 21:38:12.718] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/9476, l='ServerLevel[world]', x=-676.25, y=33.00, z=-274.52] died: Headless Warrior was killed by AlejaXxD13 using magic
+[13Jul2025 21:38:17.047] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/9326, l='ServerLevel[world]', x=-677.28, y=33.00, z=-274.93] died: Headless Warrior was slain by AlejaXxD13
+[13Jul2025 21:38:30.252] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/9597, l='ServerLevel[world]', x=-679.48, y=-20.00, z=-273.12] died: Restless Spirit was killed
+[13Jul2025 21:38:43.209] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/10507, l='ServerLevel[world]', x=-686.84, y=33.00, z=-272.17] died: Headless Warrior was slain by AlejaXxD13
+[13Jul2025 21:38:55.543] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/7709, l='ServerLevel[world]', x=-665.05, y=58.00, z=-292.75] died: Headless Warrior was slain by Piglin
+[13Jul2025 21:39:30.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 has made the advancement [Hidden in the Depths]
+[13Jul2025 21:39:39.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -3453.500000, 154.500000, 1497.500000]
+[13Jul2025 21:39:40.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 has made the advancement [Spooky Scary Skeleton]
+[13Jul2025 21:39:48.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has made the advancement [A Terrifying Entrance]
+[13Jul2025 21:39:57.607] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Headless Warrior'/7708, l='ServerLevel[world]', x=-708.43, y=34.00, z=-287.16] died: Headless Warrior fell from a high place
+[13Jul2025 21:40:48.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Spectator Mode]
+[13Jul2025 21:40:59.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Spectator Mode]
+[13Jul2025 21:41:36.828] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[13Jul2025 21:41:36.828] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 12 is dual wielding: false
+[13Jul2025 21:41:36.828] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[13Jul2025 21:41:36.829] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[13Jul2025 21:41:36.829] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[13Jul2025 21:41:45.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has made the advancement [Living Armor]
+[13Jul2025 21:42:05.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has made the advancement [Undead Guard]
+[13Jul2025 21:43:29.322] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/16122, l='ServerLevel[world]', x=-483.00, y=31.00, z=-209.00] as it would cause deadlock
+[13Jul2025 21:44:19.759] [Worker-Main-14/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/16992, l='ServerLevel[world]', x=-460.00, y=31.00, z=-233.00] as it would cause deadlock
+[13Jul2025 21:45:45.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported AlejaXxD13 to Webby80es]
+[13Jul2025 21:45:45.628] [Server thread/INFO] [do_a_barrel_roll/]: Client of AlejaXxD13 accepted server config.
+[13Jul2025 21:45:45.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 has made the advancement [A Terrifying Entrance]
+[13Jul2025 21:46:10.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 has made the advancement [Undead Guard]
+[13Jul2025 21:46:51.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 has made the advancement [Living Armor]
+[13Jul2025 21:47:49.558] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/18027, l='ServerLevel[world]', x=-636.04, y=-20.00, z=-384.53] died: Restless Spirit was killed
