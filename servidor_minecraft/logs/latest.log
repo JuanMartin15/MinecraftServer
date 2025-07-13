@@ -10204,3 +10204,19 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [13Jul2025 21:46:10.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 has made the advancement [Undead Guard]
 [13Jul2025 21:46:51.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 has made the advancement [Living Armor]
 [13Jul2025 21:47:49.558] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/18027, l='ServerLevel[world]', x=-636.04, y=-20.00, z=-384.53] died: Restless Spirit was killed
+[13Jul2025 21:48:57.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has completed the challenge [The Fallen Knight]
+[13Jul2025 21:54:36.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 has made the advancement [Good Demoman]
+[13Jul2025 21:55:55.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to AlejaXxD13]
+[13Jul2025 21:56:15.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 has made the advancement [Called Your Bluff]
+[13Jul2025 21:58:01.225] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/27721, l='ServerLevel[world]', x=-3129.70, y=99.00, z=1311.70] died, message: 'Fisherman was slain by Zombie'
+[13Jul2025 21:58:22.450] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/27720, l='ServerLevel[world]', x=-3115.35, y=111.00, z=1287.57] died, message: 'Farmer was slain by Spider'
+[13Jul2025 21:59:23.870] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[13Jul2025 21:59:42.515] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[13Jul2025 21:59:43.460] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4606ms or 92 ticks behind
+[13Jul2025 22:00:02.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 fell from a high place
+[13Jul2025 22:00:06.375] [Server thread/INFO] [do_a_barrel_roll/]: Client of AlejaXxD13 accepted server config.
+[13Jul2025 22:01:12.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2519.500000, 112.500000, 882.500000]
+[13Jul2025 22:05:44.176] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[13Jul2025 22:06:03.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4318ms or 86 ticks behind
+[13Jul2025 22:07:45.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of AlejaXxD13) moved wrongly! 0.616327664673463
+[13Jul2025 22:07:46.050] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of AlejaXxD13) moved wrongly! 1.3702148269437657
