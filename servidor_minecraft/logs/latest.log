@@ -10220,3 +10220,36 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [13Jul2025 22:06:03.473] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4318ms or 86 ticks behind
 [13Jul2025 22:07:45.995] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of AlejaXxD13) moved wrongly! 0.616327664673463
 [13Jul2025 22:07:46.050] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of AlejaXxD13) moved wrongly! 1.3702148269437657
+[13Jul2025 22:14:48.855] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlejaXxD13 lost connection: Disconnected
+[13Jul2025 22:14:48.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 left the game
+[13Jul2025 22:14:48.857] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 78a7c604-8d16-4a3d-8ac9-4c8e6f9dd90c
+[13Jul2025 22:14:48.864] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AlejaXxD13
+[13Jul2025 22:15:00.434] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AlejaXxD13 is 78a7c604-8d16-4a3d-8ac9-4c8e6f9dd90c
+[13Jul2025 22:15:03.254] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AlejaXxD13[/127.126.91.214:46931] logged in with entity id 47406 at (-2342.7421771777063, 64.8500000178814, 1643.1351414587439)
+[13Jul2025 22:15:03.257] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[13Jul2025 22:15:03.257] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[13Jul2025 22:15:03.280] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AlejaXxD13
+[13Jul2025 22:15:03.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 joined the game
+[13Jul2025 22:15:03.286] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Horse['Horse'/47407, l='ServerLevel[world]', x=-2342.74, y=64.00, z=1643.14] as it would cause deadlock
+[13Jul2025 22:15:03.418] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 78a7c604-8d16-4a3d-8ac9-4c8e6f9dd90c
+[13Jul2025 22:15:03.471] [Server thread/INFO] [Jade/]: Syncing config to AlejaXxD13 (78a7c604-8d16-4a3d-8ac9-4c8e6f9dd90c)
+[13Jul2025 22:15:03.521] [Server thread/INFO] [ping-wheel/]: Channel update: AlejaXxD13 -> default
+[13Jul2025 22:15:03.522] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AlejaXxD13 (18)
+[13Jul2025 22:15:03.522] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AlejaXxD13
+[13Jul2025 22:15:16.401] [Server thread/INFO] [do_a_barrel_roll/]: Client of AlejaXxD13 accepted server config.
+[13Jul2025 22:15:32.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to AlejaXxD13]
+[13Jul2025 22:17:11.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to AlejaXxD13]
+[13Jul2025 22:17:55.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[13Jul2025 22:18:13.529] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2675ms or 53 ticks behind
+[13Jul2025 22:19:00.525] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2971ms or 59 ticks behind
+[13Jul2025 22:19:04.772] [Worker-Main-4/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1969, y=59, z=2036}
+[13Jul2025 22:19:04.773] [Worker-Main-4/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1970, y=59, z=2032}
+[13Jul2025 22:19:04.773] [Worker-Main-4/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1969, y=59, z=2040}
+[13Jul2025 22:19:05.344] [Worker-Main-25/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1961, y=60, z=2046}
+[13Jul2025 22:19:05.344] [Worker-Main-25/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1957, y=60, z=2045}
+[13Jul2025 22:19:05.344] [Worker-Main-25/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1968, y=59, z=2033}
+[13Jul2025 22:19:05.344] [Worker-Main-25/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1956, y=60, z=2034}
+[13Jul2025 22:19:05.385] [Worker-Main-5/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1967, y=62, z=2030}
+[13Jul2025 22:19:05.386] [Worker-Main-5/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1962, y=62, z=2024}
+[13Jul2025 22:19:05.386] [Worker-Main-5/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1956, y=63, z=2030}
+[13Jul2025 22:19:07.437] [Worker-Main-14/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1962, y=59, z=2059}
