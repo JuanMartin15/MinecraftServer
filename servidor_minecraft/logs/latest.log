@@ -10383,3 +10383,122 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [13Jul2025 22:49:07.141] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13887ms or 277 ticks behind
 [13Jul2025 22:49:10.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2169.500000, 96.500000, 1857.500000]
 [13Jul2025 22:49:36.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14047ms or 280 ticks behind
+[13Jul2025 22:49:49.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Charwx080_aja was doomed to fall by Cow
+[13Jul2025 22:49:53.405] [Server thread/INFO] [do_a_barrel_roll/]: Client of Charwx080_aja accepted server config.
+[13Jul2025 22:50:06.130] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15026ms or 300 ticks behind
+[13Jul2025 22:50:33.827] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12723ms or 254 ticks behind
+[13Jul2025 22:51:00.136] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11332ms or 226 ticks behind
+[13Jul2025 22:51:14.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Charwx080_aja to Elpompetas]
+[13Jul2025 22:51:16.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Spectator Mode]
+[13Jul2025 22:51:23.523] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8419ms or 168 ticks behind
+[13Jul2025 22:51:29.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Charwx080_aja to AlejaXxD13]
+[13Jul2025 22:51:45.129] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6625ms or 132 ticks behind
+[13Jul2025 22:51:47.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AlejaXxD13> zzzzzzzzzzzzzzz
+[13Jul2025 22:51:47.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AlejaXxD13> z
+[13Jul2025 22:51:47.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AlejaXxD13> z
+[13Jul2025 22:51:47.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AlejaXxD13> z
+[13Jul2025 22:51:48.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AlejaXxD13> z
+[13Jul2025 22:51:48.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AlejaXxD13> z
+[13Jul2025 22:51:48.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AlejaXxD13> z
+[13Jul2025 22:51:48.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AlejaXxD13> z
+[13Jul2025 22:51:49.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AlejaXxD13> z
+[13Jul2025 22:51:49.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AlejaXxD13> z
+[13Jul2025 22:51:56.220] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charwx080_aja lost connection: Disconnected
+[13Jul2025 22:51:56.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Charwx080_aja left the game
+[13Jul2025 22:51:56.221] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f56ceb3c-0490-461d-8c1a-0756d7eb7240
+[13Jul2025 22:51:56.222] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Charwx080_aja
+[13Jul2025 22:52:01.421] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Charwx080_aja is f56ceb3c-0490-461d-8c1a-0756d7eb7240
+[13Jul2025 22:52:03.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has made the advancement [Quite the Renovation]
+[13Jul2025 22:52:05.025] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Charwx080_aja[/127.147.221.215:42849] logged in with entity id 82972 at (-2170.7346221508433, 80.0, 1769.559767419113)
+[13Jul2025 22:52:05.027] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[13Jul2025 22:52:05.027] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[13Jul2025 22:52:05.047] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Charwx080_aja
+[13Jul2025 22:52:05.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Charwx080_aja joined the game
+[13Jul2025 22:52:05.109] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f56ceb3c-0490-461d-8c1a-0756d7eb7240
+[13Jul2025 22:52:05.144] [Server thread/INFO] [Jade/]: Syncing config to Charwx080_aja (f56ceb3c-0490-461d-8c1a-0756d7eb7240)
+[13Jul2025 22:52:06.682] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6578ms or 131 ticks behind
+[13Jul2025 22:52:07.148] [Server thread/INFO] [ping-wheel/]: Channel update: Charwx080_aja -> default
+[13Jul2025 22:52:07.148] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Charwx080_aja (18)
+[13Jul2025 22:52:07.148] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Charwx080_aja
+[13Jul2025 22:52:10.778] [Server thread/INFO] [do_a_barrel_roll/]: Client of Charwx080_aja accepted server config.
+[13Jul2025 22:52:15.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Charwx080_aja> z
+[13Jul2025 22:52:15.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Charwx080_aja> z
+[13Jul2025 22:52:15.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Charwx080_aja> z
+[13Jul2025 22:52:15.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Charwx080_aja> z
+[13Jul2025 22:52:15.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Charwx080_aja> z
+[13Jul2025 22:52:30.336] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8682ms or 173 ticks behind
+[13Jul2025 22:52:31.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Spectator Mode]
+[13Jul2025 22:52:54.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8889ms or 177 ticks behind
+[13Jul2025 22:53:10.363] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[13Jul2025 22:53:10.363] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[13Jul2025 22:53:10.363] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[13Jul2025 22:53:10.363] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[13Jul2025 22:53:10.364] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[13Jul2025 22:53:10.364] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[13Jul2025 22:53:10.364] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[13Jul2025 22:53:10.364] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[13Jul2025 22:53:10.364] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[13Jul2025 22:53:10.364] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[13Jul2025 22:53:10.365] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[13Jul2025 22:53:10.365] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[13Jul2025 22:53:10.365] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[13Jul2025 22:53:10.365] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[13Jul2025 22:53:10.365] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[13Jul2025 22:53:10.365] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[13Jul2025 22:53:10.366] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[13Jul2025 22:53:10.366] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[13Jul2025 22:53:10.366] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[13Jul2025 22:53:10.366] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[13Jul2025 22:53:10.366] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[13Jul2025 22:53:10.366] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[13Jul2025 22:53:10.366] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[13Jul2025 22:53:10.367] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[13Jul2025 22:53:17.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8465ms or 169 ticks behind
+[13Jul2025 22:53:33.819] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:setCaster2:109]: setCaster2 called. Server side: true. Caster2: null
+[13Jul2025 22:53:33.820] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.LightningBoltEntity:onAddedToWorld:334]: ThunderCloud added to server world
+[13Jul2025 22:53:39.942] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7338ms or 146 ticks behind
+[13Jul2025 22:54:01.217] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6313ms or 126 ticks behind
+[13Jul2025 22:54:22.065] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5861ms or 117 ticks behind
+[13Jul2025 22:54:42.437] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5383ms or 107 ticks behind
+[13Jul2025 22:55:02.890] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5485ms or 109 ticks behind
+[13Jul2025 22:55:24.609] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6755ms or 135 ticks behind
+[13Jul2025 22:55:45.791] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6187ms or 123 ticks behind
+[13Jul2025 22:56:06.894] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6140ms or 122 ticks behind
+[13Jul2025 22:56:27.275] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5421ms or 108 ticks behind
+[13Jul2025 22:56:47.461] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2229, y=64, z=1664} BlockPos{x=-2229, y=63, z=1664}
+[13Jul2025 22:56:47.463] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2229, y=64, z=1664} BlockPos{x=-2229, y=63, z=1664}
+[13Jul2025 22:56:47.539] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2229, y=64, z=1664} BlockPos{x=-2229, y=63, z=1664}
+[13Jul2025 22:56:47.618] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5364ms or 107 ticks behind
+[13Jul2025 22:57:00.849] [Worker-Main-23/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1950, y=63, z=1988}
+[13Jul2025 22:57:00.849] [Worker-Main-23/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1949, y=64, z=1990}
+[13Jul2025 22:57:00.849] [Worker-Main-23/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1947, y=62, z=1985}
+[13Jul2025 22:57:00.926] [Worker-Main-3/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1931, y=65, z=1985}
+[13Jul2025 22:57:00.926] [Worker-Main-3/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1932, y=62, z=1992}
+[13Jul2025 22:57:00.926] [Worker-Main-3/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1933, y=60, z=1998}
+[13Jul2025 22:57:06.437] [Worker-Main-11/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1948, y=61, z=2002}
+[13Jul2025 22:57:06.438] [Worker-Main-11/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1951, y=62, z=2014}
+[13Jul2025 22:57:06.438] [Worker-Main-11/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1940, y=64, z=2002}
+[13Jul2025 22:57:09.742] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7138ms or 142 ticks behind
+[13Jul2025 22:57:33.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8706ms or 174 ticks behind
+[13Jul2025 22:57:33.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 was slain by Scarlet Persecutor
+[13Jul2025 22:57:44.125] [Worker-Main-9/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1956, y=63, z=2030}
+[13Jul2025 22:57:44.142] [Worker-Main-9/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1942, y=59, z=2025}
+[13Jul2025 22:57:44.142] [Worker-Main-9/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1946, y=61, z=2019}
+[13Jul2025 22:57:44.142] [Worker-Main-9/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1946, y=63, z=2021}
+[13Jul2025 22:57:44.498] [Worker-Main-15/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1925, y=62, z=2031}
+[13Jul2025 22:57:44.498] [Worker-Main-15/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1932, y=61, z=2021}
+[13Jul2025 22:57:44.498] [Worker-Main-15/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1928, y=63, z=2031}
+[13Jul2025 22:57:44.499] [Worker-Main-15/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1936, y=60, z=2028}
+[13Jul2025 22:57:51.050] [Worker-Main-14/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1951, y=61, z=2037}
+[13Jul2025 22:57:51.050] [Worker-Main-14/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1938, y=62, z=2042}
+[13Jul2025 22:57:51.076] [Worker-Main-23/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1961, y=60, z=2046}
+[13Jul2025 22:57:51.077] [Worker-Main-23/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1968, y=59, z=2033}
+[13Jul2025 22:57:51.077] [Worker-Main-23/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1956, y=60, z=2034}
+[13Jul2025 22:57:53.375] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4971ms or 99 ticks behind
+[13Jul2025 22:57:58.048] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1978, y=-13, z=2046}
+[13Jul2025 22:57:58.554] [Worker-Main-15/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1962, y=59, z=2059}
+[13Jul2025 22:58:04.167] [Server thread/INFO] [do_a_barrel_roll/]: Client of AlejaXxD13 accepted server config.
+[13Jul2025 22:58:18.959] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10605ms or 212 ticks behind
+[13Jul2025 22:58:46.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12976ms or 259 ticks behind
+[13Jul2025 22:59:15.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13594ms or 271 ticks behind
+[13Jul2025 22:59:43.496] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13042ms or 260 ticks behind
