@@ -10295,3 +10295,12 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [13Jul2025 22:27:51.136] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4032ms or 80 ticks behind
 [13Jul2025 22:28:09.207] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3103ms or 62 ticks behind
 [13Jul2025 22:29:21.039] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[13Jul2025 22:31:06.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 was doomed to fall by Zombie Bruiser
+[13Jul2025 22:31:08.107] [Server thread/INFO] [do_a_barrel_roll/]: Client of AlejaXxD13 accepted server config.
+[13Jul2025 22:34:35.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es was slain by Zombie Clown
+[13Jul2025 22:34:37.130] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
+[13Jul2025 22:34:43.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2307.500000, 102.500000, 874.500000]
+[13Jul2025 22:35:41.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2323.500000, 39.500000, 850.500000]
+[13Jul2025 22:38:15.956] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[13Jul2025 22:38:49.555] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[13Jul2025 22:39:02.244] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlejaXxD13 moved wrongly!
