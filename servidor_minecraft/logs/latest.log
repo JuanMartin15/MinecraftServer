@@ -10252,3 +10252,19 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [14Jul2025 13:48:39.521] [Worker-Main-34/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1962, y=59, z=2059}
 [14Jul2025 13:48:39.609] [Worker-Main-33/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1978, y=-13, z=2046}
 [14Jul2025 13:48:39.610] [Worker-Main-33/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1977, y=-13, z=2047}
+[14Jul2025 13:50:32.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to Elpompetas]
+[14Jul2025 13:51:23.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2323.500000, 39.500000, 850.500000]
+[14Jul2025 13:52:10.884] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/3523, l='ServerLevel[world]', x=-2140.14, y=76.00, z=1890.21] died, message: 'Butcher was slain by Zombie Bruiser'
+[14Jul2025 13:52:41.505] [Worker-Main-11/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1932, y=61, z=2021}
+[14Jul2025 13:52:41.505] [Worker-Main-11/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1928, y=63, z=2031}
+[14Jul2025 13:52:41.505] [Worker-Main-11/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1936, y=60, z=2028}
+[14Jul2025 13:53:02.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas withered away whilst fighting Lifestealer
+[14Jul2025 13:53:04.652] [Server thread/INFO] [do_a_barrel_roll/]: Client of Elpompetas accepted server config.
+[14Jul2025 13:58:31.767] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elpompetas lost connection: Disconnected
+[14Jul2025 13:58:31.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas left the game
+[14Jul2025 13:58:31.770] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f1560095-bd08-4100-b4d8-75c6e03f0dc3
+[14Jul2025 13:58:31.773] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Elpompetas
+[14Jul2025 13:58:49.101] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Webby80es lost connection: Disconnected
+[14Jul2025 13:58:49.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es left the game
+[14Jul2025 13:58:49.101] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cb7eef6e-db76-493a-833a-9d516abc0597
+[14Jul2025 13:58:49.102] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Webby80es
