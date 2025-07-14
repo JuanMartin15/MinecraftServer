@@ -32,3 +32,21 @@
 [14Jul2025 00:03:26.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Charwx080_aja> z
 [14Jul2025 00:04:33.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 withered away
 [14Jul2025 00:04:35.115] [Server thread/INFO] [do_a_barrel_roll/]: Client of AlejaXxD13 accepted server config.
+[14Jul2025 00:12:35.988] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AlejaXxD13 lost connection: Disconnected
+[14Jul2025 00:12:35.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AlejaXxD13 left the game
+[14Jul2025 00:12:35.988] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 78a7c604-8d16-4a3d-8ac9-4c8e6f9dd90c
+[14Jul2025 00:12:35.989] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AlejaXxD13
+[14Jul2025 00:12:45.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2245.500000, 75.500000, 1823.500000]
+[14Jul2025 00:12:53.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2134.500000, 98.500000, 1880.500000]
+[14Jul2025 00:13:13.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to Elpompetas]
+[14Jul2025 00:15:01.124] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/105890, l='ServerLevel[world]', x=-2155.55, y=94.00, z=1853.58] died, message: 'Butcher bled to death'
+[14Jul2025 00:15:13.671] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/76836, l='ServerLevel[world]', x=-2162.04, y=85.50, z=1878.83] died, message: 'Cleric hit the ground too hard whilst trying to escape Zombie'
+[14Jul2025 00:15:33.963] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/141550, l='ServerLevel[world]', x=-2201.88, y=67.00, z=1842.14] died, message: 'Librarian was shot by Skeleton'
+[14Jul2025 00:17:03.244] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elpompetas lost connection: Disconnected
+[14Jul2025 00:17:03.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas left the game
+[14Jul2025 00:17:03.245] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f1560095-bd08-4100-b4d8-75c6e03f0dc3
+[14Jul2025 00:17:03.246] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Elpompetas
+[14Jul2025 00:18:46.297] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charwx080_aja lost connection: Disconnected
+[14Jul2025 00:18:46.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Charwx080_aja left the game
+[14Jul2025 00:18:46.297] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f56ceb3c-0490-461d-8c1a-0756d7eb7240
+[14Jul2025 00:18:46.298] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Charwx080_aja
