@@ -10197,3 +10197,40 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [14Jul2025 13:10:25.726] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatCommandPacket
 [14Jul2025 13:10:25.728] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatPacket
 [14Jul2025 13:10:25.730] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatSessionUpdatePacket
+[14Jul2025 13:21:00.715] [User Authenticator #1/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Elpompetas is f1560095-bd08-4100-b4d8-75c6e03f0dc3
+[14Jul2025 13:21:03.342] [Netty Epoll Server IO #0/WARN] [mixin/]: @ModifyConstant conflict. Skipping packetfixer.v1_19_4.forge.mixins.json:v1_19_4_forge.CompressionEncoderMixin->@ModifyConstant::packetfixer$newSize(I)I with priority 1000, already redirected by connectivity.mixins.json:CompressionEncoderMixin->@ModifyConstant::modifyLimit(I)I with priority 1000
+[14Jul2025 13:21:03.342] [Netty Epoll Server IO #0/WARN] [mixin/]: @ModifyConstant conflict. Skipping packetfixer.v1_19_4.forge.mixins.json:v1_19_4_forge.CompressionEncoderMixin->@ModifyConstant::packetfixer$newSize(I)I with priority 1000, already redirected by connectivity.mixins.json:CompressionEncoderMixin->@ModifyConstant::modifyLimit(I)I with priority 1000
+[14Jul2025 13:21:03.664] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elpompetas[/127.47.61.107:56845] logged in with entity id 1781 at (-2032.0658270927283, 88.0, 1808.6238186724283)
+[14Jul2025 13:21:03.819] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[14Jul2025 13:21:03.820] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[14Jul2025 13:21:05.321] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Elpompetas
+[14Jul2025 13:21:05.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas joined the game
+[14Jul2025 13:21:05.534] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f1560095-bd08-4100-b4d8-75c6e03f0dc3
+[14Jul2025 13:21:05.880] [Server thread/INFO] [Jade/]: Syncing config to Elpompetas (f1560095-bd08-4100-b4d8-75c6e03f0dc3)
+[14Jul2025 13:21:06.161] [Server thread/INFO] [ping-wheel/]: Channel update: Elpompetas -> default
+[14Jul2025 13:21:06.161] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Elpompetas (18)
+[14Jul2025 13:21:06.163] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Elpompetas
+[14Jul2025 13:21:06.211] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2733ms or 54 ticks behind
+[14Jul2025 13:21:16.078] [Server thread/INFO] [do_a_barrel_roll/]: Client of Elpompetas accepted server config.
+[14Jul2025 13:21:26.587] [Worker-Main-39/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_main_room_pool
+[14Jul2025 13:21:26.588] [Worker-Main-39/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_2_pool
+[14Jul2025 13:21:26.588] [Worker-Main-39/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_1_pool
+[14Jul2025 13:21:26.588] [Worker-Main-39/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_3_pool
+[14Jul2025 13:21:27.025] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5847ms or 116 ticks behind
+[14Jul2025 13:24:50.547] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Webby80es is cb7eef6e-db76-493a-833a-9d516abc0597
+[14Jul2025 13:24:53.574] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Webby80es[/127.150.0.97:47969] logged in with entity id 6386 at (-2121.217492255393, 81.0, 1735.414018554224)
+[14Jul2025 13:24:53.577] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[14Jul2025 13:24:53.578] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[14Jul2025 13:24:53.578] [pool-8-thread-1/INFO] [Vivecraft/]: Vivecraft: Checking for Updates
+[14Jul2025 13:24:53.604] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Webby80es
+[14Jul2025 13:24:53.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es joined the game
+[14Jul2025 13:24:53.807] [Server thread/INFO] [Jade/]: Syncing config to Webby80es (cb7eef6e-db76-493a-833a-9d516abc0597)
+[14Jul2025 13:24:53.808] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cb7eef6e-db76-493a-833a-9d516abc0597
+[14Jul2025 13:24:58.014] [Server thread/INFO] [ping-wheel/]: Channel update: Webby80es -> default
+[14Jul2025 13:24:58.014] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Webby80es (18)
+[14Jul2025 13:24:58.014] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Webby80es
+[14Jul2025 13:25:09.564] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
+[14Jul2025 13:25:34.187] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_main_room_pool
+[14Jul2025 13:25:34.188] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_2_pool
+[14Jul2025 13:25:34.188] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_1_pool
+[14Jul2025 13:25:34.188] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_3_pool
