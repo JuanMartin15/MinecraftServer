@@ -10237,3 +10237,18 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [14Jul2025 13:29:05.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Elpompetas> discord?
 [14Jul2025 13:29:10.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Webby80es> Dame 5m
 [14Jul2025 13:29:13.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Elpompetas> ok
+[14Jul2025 13:43:56.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2053.500000, 87.500000, 1809.500000]
+[14Jul2025 13:44:10.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas has made the advancement [Jennifer Dumped Me]
+[14Jul2025 13:47:43.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2117.500000, 83.500000, 1736.500000]
+[14Jul2025 13:47:45.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2126.500000, 83.500000, 1736.500000]
+[14Jul2025 13:47:52.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2117.500000, 83.500000, 1737.500000]
+[14Jul2025 13:48:24.596] [Worker-Main-11/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1942, y=59, z=2025}
+[14Jul2025 13:48:24.597] [Worker-Main-11/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1946, y=61, z=2019}
+[14Jul2025 13:48:24.597] [Worker-Main-11/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1946, y=63, z=2021}
+[14Jul2025 13:48:34.304] [Worker-Main-31/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1961, y=60, z=2046}
+[14Jul2025 13:48:34.305] [Worker-Main-31/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1957, y=60, z=2045}
+[14Jul2025 13:48:34.305] [Worker-Main-31/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1968, y=59, z=2033}
+[14Jul2025 13:48:34.305] [Worker-Main-31/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1956, y=60, z=2034}
+[14Jul2025 13:48:39.521] [Worker-Main-34/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1962, y=59, z=2059}
+[14Jul2025 13:48:39.609] [Worker-Main-33/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1978, y=-13, z=2046}
+[14Jul2025 13:48:39.610] [Worker-Main-33/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1977, y=-13, z=2047}
