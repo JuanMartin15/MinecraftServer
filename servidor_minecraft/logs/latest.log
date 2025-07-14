@@ -50,3 +50,33 @@
 [14Jul2025 00:18:46.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Charwx080_aja left the game
 [14Jul2025 00:18:46.297] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f56ceb3c-0490-461d-8c1a-0756d7eb7240
 [14Jul2025 00:18:46.298] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Charwx080_aja
+[14Jul2025 00:43:19.428] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Webby80es lost connection: Disconnected
+[14Jul2025 00:43:19.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es left the game
+[14Jul2025 00:43:19.428] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cb7eef6e-db76-493a-833a-9d516abc0597
+[14Jul2025 00:43:19.429] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Webby80es
+[14Jul2025 00:43:23.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[14Jul2025 00:43:23.666] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[14Jul2025 00:43:23.696] [Server thread/INFO] [VivecraftServer/]: Vivecraft: shutting down vivecraft scheduler
+[14Jul2025 00:43:23.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[14Jul2025 00:43:23.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[14Jul2025 00:43:23.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[14Jul2025 00:43:23.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14Jul2025 00:43:23.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[14Jul2025 00:43:23.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[14Jul2025 00:43:23.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/voidscape:void
+[14Jul2025 00:43:23.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/witherstormmod:bowels
+[14Jul2025 00:43:23.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[14Jul2025 00:43:23.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
+[14Jul2025 00:43:23.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14Jul2025 00:43:23.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14Jul2025 00:43:23.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[14Jul2025 00:43:23.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (void): All chunks are saved
+[14Jul2025 00:43:23.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
+[14Jul2025 00:43:23.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14Jul2025 00:43:23.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[14Jul2025 00:43:23.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[14Jul2025 00:43:24.173] [Server thread/INFO] [Framework/]: Unloading server configs...
+[14Jul2025 00:43:24.174] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[14Jul2025 00:43:24.178] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[14Jul2025 00:43:24.181] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[14Jul2025 00:43:24.181] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
